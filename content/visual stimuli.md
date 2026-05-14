@@ -1,0 +1,1 @@
+![[pyramid-eye.jpg]]
