@@ -1,3 +1,3 @@
-# You are here
+# Behold the Axolotl of Logic
 
-Welcome to my digital garden
+![[axolotl-logo.png]]
