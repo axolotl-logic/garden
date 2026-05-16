@@ -1,0 +1,1 @@
+An intervention meant to modify behaviors such as inhibiting them (e.g. smoking) or encouraging them (e.g. flossing).
