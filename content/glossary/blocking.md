@@ -1,0 +1,1 @@
+In the context of category learning, blocking is the dedicated focus on a single category during learning session. If [[interleaving]] is ABCABC, then blocking is AABBCC.

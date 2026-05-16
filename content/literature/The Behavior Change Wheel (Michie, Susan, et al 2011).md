@@ -2,7 +2,7 @@
 > [!info] This is a Literature Note
 > Michie, Susan, et al. “The Behaviour Change Wheel: A New Method for Characterising and Designing Behaviour Change Interventions.” _Implementation Science_, vol. 6, no. 1, Dec. 2011, p. 42. _DOI.org (Crossref)_, [https://doi.org/10.1186/1748-5908-6-42](https://doi.org/10.1186/1748-5908-6-42).
 
-The authors establish a framework for designing [[behavior change interventions]].
+The authors establish a framework for designing [[behavior change intervention]].
 
 They introduce the COM-B system which links Capability, Motivation, and Opportunity to each other and each in turn to Behavior.
 
