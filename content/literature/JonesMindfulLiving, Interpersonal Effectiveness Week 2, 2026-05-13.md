@@ -2,7 +2,7 @@
 >
 
 >[!info] This is a literature note
-Replay 5/13/26: Interpersonal Effectiveness Week 2, https://joneswellness.vhx.tv/videos/interpersonal-effectiveness-week-2
+> Replay 5/13/26: Interpersonal Effectiveness Week 2, https://joneswellness.vhx.tv/videos/interpersonal-effectiveness-week-2
 
 
 DEAR MAN is a recipe that allows you to avoid falling into to extremes when asking for something or saying no. Its goal is maximize the chance of getting what one wants while minimizing harmful behaviors.
