@@ -6,21 +6,8 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.Comments({
-      provider: 'giscus',
-      options: {
-        // from data-repo
-        repo: 'axolotl-logic/garden',
-        // from data-repo-id
-        repoId: 'R_kgDOSdZBeQ',
-        // from data-category
-        category: 'Announcements',
-        // from data-category-id
-        categoryId: 'DIC_kwDOSdZBec4C9Cvi',
-        // from data-lang
-        lang: 'en'
-      }
-    }),
+    Component.ElfsightCounter(),
+    Component.ElfsightComments(),
   ],
   footer: Component.Footer({
     links: {

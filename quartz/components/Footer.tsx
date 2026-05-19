@@ -17,7 +17,6 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
-        <div class="elfsight-app-8f023e77-2386-46ec-b160-361e6056d471" data-elfsight-app-lazy></div>
       </footer>
     )
   }
