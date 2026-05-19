@@ -97,6 +97,8 @@ export default (() => {
             return resource
           }
         })}
+        {/* Elfsight Visitor Counter | Untitled Visitor Counter */}
+        <script src="https://elfsightcdn.com/platform.js" async></script>
       </head>
     )
   }
