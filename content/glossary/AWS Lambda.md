@@ -1,0 +1,1 @@
+A [[Function as a Service (FaaS)]] service from Amazon. Combine with other services to be workhorse of an architecture while other resources and services such as [[Simple Queue Service (AWS)]] (imagine using SQS as a [[Job Queue]] with Lambda functions triggered on insert being the workers) and [[API Gateway (AWS Service)]] (exposing the functions as an API.

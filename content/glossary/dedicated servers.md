@@ -1,0 +1,1 @@
+Statefull system with manual provisioning. Multiple threads to handle multiple aspects of an interaction. 

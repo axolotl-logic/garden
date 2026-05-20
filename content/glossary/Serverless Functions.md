@@ -1,0 +1,1 @@
+Stateless systems. stripped down virtual machine/ container to handle single request

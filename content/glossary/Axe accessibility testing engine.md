@@ -1,0 +1,1 @@
+Checks accessibility rules automatics,  part of software verification ecosystem of javascript. 

@@ -1,0 +1,2 @@
+The Accessibility Object Model (AOM) represents information useful to browser accessibility tools. Where the [[Document Object Model (DOM)]] is concerned with communicating HTML to JavaScript, the AOM is concerned with communicating [[semantics]] (i.e. meaning) of the page to user agents with [[assistive technology]] with regards to as well as ease of life concerns in an attempt to make accessible choices the easiest choice. The AOM is also used in [[Web Components]].
+

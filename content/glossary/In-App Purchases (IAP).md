@@ -1,0 +1,1 @@
+Purchases made within an application, often associated with apps on the [[mobile app]] market, but also can be seen on PC software such as [[Valve's Steam|Steam (Valve Marketplace)]].

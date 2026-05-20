@@ -1,0 +1,1 @@
+A software layer that makes persisting state easier. 

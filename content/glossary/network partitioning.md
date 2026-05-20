@@ -1,0 +1,1 @@
+The division of a network into smaller, independent units either by design or by failure.

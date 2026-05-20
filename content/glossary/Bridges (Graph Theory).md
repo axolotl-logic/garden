@@ -1,0 +1,1 @@
+An edge that when deleted increases the number of [[Components (Graph Theory)]].

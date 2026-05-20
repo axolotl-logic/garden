@@ -1,0 +1,11 @@
+
+```
+bugprone-*
+cert-*
+clang-analyzer-*
+concurrency-*
+misc-*
+modernize-*
+performance-*
+readability-*
+```

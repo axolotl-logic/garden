@@ -1,0 +1,1 @@
+[[Time management technique]] of alotting a fixed amount of time to a task. This technique helps prevent [[Scope Creep]] , can be an [[ADHD Hack]] when combined with a thorough [[task breakdown]].

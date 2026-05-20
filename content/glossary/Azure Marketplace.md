@@ -1,0 +1,1 @@
+The azure market sells consulting services and apps for the azure cloud. It is an offering by Microsoft who owns [[Azure]].

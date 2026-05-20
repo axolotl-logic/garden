@@ -1,0 +1,1 @@
+An API management service from [[Amazon Web Services (AWS)]] that allows you toexpose your [[AWS Lambda]] functions via [[HTTP]] and [[Websockets]].

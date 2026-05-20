@@ -1,0 +1,1 @@
+An algorithm is said to be correct with respect to a specification, if it follows that specification.

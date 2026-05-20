@@ -1,0 +1,1 @@
+Model the system,  model the desired state,  analyze different, calc change, write tests to measure change,  implement

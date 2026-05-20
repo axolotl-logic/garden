@@ -1,0 +1,1 @@
+https://developer.samsung.com/galaxy-games/get-started-in-galaxy-store.html

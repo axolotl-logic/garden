@@ -1,0 +1,1 @@
+A model with parameter space $\Theta$ is parametric if $\Theta$ is finite and $\forall \theta \in \Theta, \theta \subseteq \mathbb{R}^k$ for positive integer values of $k$.

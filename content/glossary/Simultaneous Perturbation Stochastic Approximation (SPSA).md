@@ -1,0 +1,1 @@
+Simultaneous Perturbation Stochastic Approximation (SPSA) is a method for optimizing systems with unknown parameters. It is a type of [[stochastic optimization]] algorithm.

@@ -1,0 +1,1 @@
+A complete graph is a graph with vertices v and edges e such that that for all members of v, there exists edgse in e for all other members of v.

@@ -1,0 +1,1 @@
+Chess Portable Game Notation (PGN) grammar for [[tree-sitter]].

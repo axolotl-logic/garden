@@ -1,0 +1,1 @@
+Symetric encryption where data is chunked into equal sized blocks, padding if needed.  This is juxtoposed to stream ciphers which do not need to buffer or process entire message at once. 

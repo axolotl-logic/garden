@@ -1,0 +1,1 @@
+Computational resources are the virtual and physical resources consumed during .

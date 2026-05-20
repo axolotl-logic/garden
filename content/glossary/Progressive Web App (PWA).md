@@ -1,0 +1,1 @@
+A [[web app]] able to be installed locally. The mechanism is the offline file storage. 

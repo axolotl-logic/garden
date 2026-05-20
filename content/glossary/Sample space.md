@@ -1,0 +1,1 @@
+Set of all possible outcomes of an experiment

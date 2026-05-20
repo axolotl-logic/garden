@@ -1,0 +1,1 @@
+Simulcast to vue with having templates,  but cleaner templates. Opinionated on syntax.  Template language for svelte controls flow, unlike [[Vue.js (Javascript Framework)]] which uses html attributes.

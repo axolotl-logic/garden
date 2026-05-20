@@ -1,0 +1,1 @@
+Amorphous subfield of graph theory that studies the geometric and combinatorial properties of geometric graphs and topological graphs.

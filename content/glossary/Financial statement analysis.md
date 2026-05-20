@@ -1,0 +1,1 @@
+A financial statement analysis is a method for reviewing and analyzing financial statements in order to make better economic decisions.

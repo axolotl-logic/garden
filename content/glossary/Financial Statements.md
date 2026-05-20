@@ -1,0 +1,1 @@
+Financial statements are formal records meant to provide information into the [[Financial Activities|financial activities]] , [[Position (finance)|position]], and changes of that position for any entity.

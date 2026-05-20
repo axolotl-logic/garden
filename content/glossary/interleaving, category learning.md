@@ -1,1 +1,0 @@
-In the context of category learning, to interleave is to rotate the category being learned, spending less time on a single category, but most importantly revisiting it later. The alternative is [[blocking, category learning]]. 

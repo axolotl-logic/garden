@@ -1,0 +1,1 @@
+A parameter is a quantity that describes or summarizes a [[Statistical population]]

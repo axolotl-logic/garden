@@ -1,0 +1,1 @@
+A set of events or items, hypothetical or existing, that is relevant to an inquiry or experiment.

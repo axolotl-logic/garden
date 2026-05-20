@@ -1,0 +1,1 @@
+A family of methods that iteratively improve upon approximations to find roots or perform optimization.

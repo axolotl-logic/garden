@@ -1,0 +1,1 @@
+A procedure that produces an outcome.

@@ -1,0 +1,1 @@
+The number of transactions a system conducts. When combined with other measures such as [[Response Time]] and [[Computational Resources]] used.

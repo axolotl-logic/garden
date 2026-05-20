@@ -1,0 +1,1 @@
+Conferences organized by [[Gotopia]]. For a list of speakers, see their [experts page](https://gotopia.tech/experts).

@@ -1,0 +1,1 @@
+A property is stochastic if it is well described by a probability distribution

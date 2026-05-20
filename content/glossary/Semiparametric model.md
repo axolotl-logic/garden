@@ -1,0 +1,1 @@
+A [[Statistical Model]] with both parametric and non-parametric components.
