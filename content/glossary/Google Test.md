@@ -1,1 +1,0 @@
-A unit testing framework for C++ with support for C code bases. Also called gtest.

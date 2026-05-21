@@ -1,1 +1,0 @@
-Katnip is a repository of implementations and extensions for [[Kitty (Fuzzing Framework)]].

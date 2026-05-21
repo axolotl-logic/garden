@@ -1,1 +1,0 @@
-A [[security framework]] concerned with proving identity ([[Outer/authentication|authentication]]), granting access ([[Outer/authorization|authorization]]), and maintaining an [[Outer/audit trail|audit trail]] (accounting).

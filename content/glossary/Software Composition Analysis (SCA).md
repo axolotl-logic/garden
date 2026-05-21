@@ -1,1 +1,0 @@
-In the context of controlling risks associated with open source software

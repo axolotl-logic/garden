@@ -1,4 +1,4 @@
-A little bit of latex goes a long way when it comes to presenting your ideas mathematically clearly and effortlessly. 
+A little bit of latex goes a long way when it comes to presenting your ideas clearly and effortlessly. 
 
 ## Aligned
 

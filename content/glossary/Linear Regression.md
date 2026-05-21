@@ -1,1 +1,0 @@
-A [[Statistical Model]] that estimates the relationship between a dependent variable and explanatory variables via linear predictive functions whose model parameters are estimated from the data.

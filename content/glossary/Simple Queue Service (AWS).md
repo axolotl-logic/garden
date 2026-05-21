@@ -1,1 +1,0 @@
-Shared queue implementation on [[Amazon Web Services (AWS)]]. Used as part of my [[Notification Service.canvas|Notification Service]] or [[Notification Service b.canvas|Notification Service b]] for the [[ChessDojo (Organization)]].

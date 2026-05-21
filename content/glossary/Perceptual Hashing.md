@@ -1,1 +1,0 @@
-Producing a one way hash based on visual aspects.

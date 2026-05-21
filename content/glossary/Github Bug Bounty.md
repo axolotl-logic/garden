@@ -1,1 +1,0 @@
-Lots in scope,  highly competitive  this is just githubs own systems. 

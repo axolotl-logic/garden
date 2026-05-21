@@ -1,1 +1,0 @@
-Open Source community targeted Patreon by Microsoft. 

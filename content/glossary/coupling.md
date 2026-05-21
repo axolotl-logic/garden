@@ -1,1 +1,0 @@
-Two components are considered coupled if changing one requires changing the other

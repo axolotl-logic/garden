@@ -1,1 +1,0 @@
-Used to prove the validity of a public key.

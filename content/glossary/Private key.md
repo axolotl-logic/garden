@@ -1,1 +1,0 @@
-Private keys are used in [[asymmetric cryptography]] as the partner to public keys, in key pairs.

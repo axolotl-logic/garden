@@ -1,1 +1,0 @@
-The study of mathematical concepts.

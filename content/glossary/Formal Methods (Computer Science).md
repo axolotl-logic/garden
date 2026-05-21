@@ -1,1 +1,0 @@
-Apply the rigor and techniques of mathematics to hardware and software.
