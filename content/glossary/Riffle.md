@@ -1,10 +1,10 @@
 Reactive client side database queries exposed as hooks for [[react.js]] apps that allow for [[Local-First]] development.
 
-Table granular tracking. Defects changes at a table, not row, level. 
+Table granular tracking. Detects changes at a table, not row, level. 
 
 From a paper Authored by [[Geoffrey Litt]], [[Johannes Schickling]], [[Daniel Jackson]], and [[Nicholas Schiefe]].
 
-[Get access](https://dl.acm.org/doi/pdf/10.1145/3586183.3606801) to essay or there's a conference talk below.
+[Get access](https://dl.acm.org/doi/pdf/10.1145/3586183.3606801) to their essay or there's a conference talk below.
 
 
 ```embed
