@@ -1,1 +1,0 @@
-Druzzle is an ORM closely resembling building SQL queries.

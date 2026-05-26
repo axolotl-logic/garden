@@ -1,1 +1,0 @@
-[[Advanced Encryption Standard (AES)|AES]] with 256-bit key length, the longest key length of the [[Advanced Encryption Standard (AES)]].

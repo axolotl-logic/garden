@@ -1,1 +1,0 @@
-A common hashing algorithm suitable for use at 256 bits.

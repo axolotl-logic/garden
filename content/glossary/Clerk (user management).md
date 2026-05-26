@@ -1,1 +1,0 @@
-Clerk is a user management platform embedded into your app.

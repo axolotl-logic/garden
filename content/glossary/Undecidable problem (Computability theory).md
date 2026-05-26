@@ -1,1 +1,0 @@
-A [[Decision problem (Computability Theory) | decision problem]] is said to be an $\text{undecidable problem}$ if it is proven that an algorithm can not be constructed to solve it (i.e. always provides a correct yes-or-no answer).

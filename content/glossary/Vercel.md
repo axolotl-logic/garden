@@ -1,1 +1,0 @@
-Cloud service provider running on other cloud service providers. Offers serverless functions, managed postgresql, and various other niceties.

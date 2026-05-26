@@ -1,1 +1,0 @@
-Tree sitter is a modern parser generator that provides bindings for many popular languages.

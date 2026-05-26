@@ -1,1 +1,0 @@
-The maximum length of a [[protocol data unit (PDU)]].

@@ -1,1 +1,0 @@
-Standalone executable and Haskall library for converting files from one markup format to another.

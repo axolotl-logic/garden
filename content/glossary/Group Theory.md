@@ -1,1 +1,0 @@
-"Abstraction of symmetries" - [[ Eyesomorphic (YouTube)]]

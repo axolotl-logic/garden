@@ -1,1 +1,0 @@
-Used to sign documents and verify signatures. It is a [[public-key cryptosystem]].

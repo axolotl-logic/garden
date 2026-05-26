@@ -1,1 +1,0 @@
-Official Firebase bindings for [[Vue.js (Javascript Framework)]]

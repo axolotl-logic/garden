@@ -1,1 +1,0 @@
-Framework and plugin ecosystem for deploying applications on [[AWS Lambda]], [[Amazon DynamoDB (Database service)]], and [[API Gateway (AWS Service)]], along with other [[Amazon Web Services (AWS)]] services such as [[Simple Queue Service (AWS)]].

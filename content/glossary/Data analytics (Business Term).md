@@ -1,1 +1,0 @@
-Data analytics is the computational process of converting raw data into business insights. A more general term would be [[Analytics (Business Intelligence)]].

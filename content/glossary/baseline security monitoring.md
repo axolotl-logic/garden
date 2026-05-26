@@ -1,1 +1,0 @@
-Tracking the distance individual devices from an established security policy.

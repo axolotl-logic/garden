@@ -1,1 +1,0 @@
-Fullstack Javascript application framework

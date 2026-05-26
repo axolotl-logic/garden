@@ -1,3 +1,0 @@
-Brewer's Theorem states you can only guarantee 2 of...
-
-Consistency - Availability - [[network partitioning|Partition Tolerance]]

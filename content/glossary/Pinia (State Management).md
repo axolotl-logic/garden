@@ -1,1 +1,0 @@
-A state management library specifically for [[Vue.js (Javascript Framework)]]]

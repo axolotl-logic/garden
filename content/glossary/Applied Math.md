@@ -1,1 +1,0 @@
-The application of math concepts directly to concerns outside the field of math. 

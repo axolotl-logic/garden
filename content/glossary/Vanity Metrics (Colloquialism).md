@@ -1,1 +1,0 @@
-Metrics that make you personally feel good but do not have outword context.

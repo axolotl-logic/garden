@@ -1,1 +1,0 @@
-Component library built with tailwind.

@@ -1,1 +1,0 @@
-Redis is an [[in-memory storage]] used as a [[cache]], [[message broker]], among other things.

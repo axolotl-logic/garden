@@ -1,1 +1,0 @@
-Generates reports from [[Gcov]]

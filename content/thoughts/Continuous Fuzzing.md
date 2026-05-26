@@ -1,1 +1,0 @@
-Constantly fuzzing an application such that additional attack surface is discovered over time with an evolving corpus. 
