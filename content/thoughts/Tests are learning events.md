@@ -1,1 +1,0 @@
-The act of testing recognition further trains the ability to recognize. A consequence of this in experiment design is that testing may have an effect on outcomes itself.

@@ -19,3 +19,7 @@ They claim the romantic view is flawed because the suggestion that unguided expr
 
 While the positive effects of writing-to-learn tasks are small, metacognitive prompts seem to lead to a much larger effect size compared to those without. This may imply that writing-to-learn is only as good as it encourages self-regulated learning activities. 
 
+Learning journals have two parts. The first is to write down one's reflections on the learning content. The second is to ask where there are knowledge gaps and how to bridge them.
+
+In free form writing, mental activity tends to be low and not show evidence of engaging self-regulated learning processes. Thus, the authors built prompts that offer instructional support so that sufficient and well directed mental effort occurred.  This is done via prompts targeted at eliciting cognitive and metacognitive learning strategies. This is what is referred to by the *self-regulation view* of writing to learn.
+
