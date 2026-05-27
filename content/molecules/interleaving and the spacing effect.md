@@ -1,0 +1,1 @@
+A thematic question in researching the interleaving effect is whether or not it can be explained exclusively through the spacing effect. The logic goes that interleaving inherently spaces out the concepts by way of alternating them and that this may explain some or all of the beneficial effect.
