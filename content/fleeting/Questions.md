@@ -1,0 +1,1 @@
+Is the CLT definition of cognitive load unmeasurable? Is it circular?

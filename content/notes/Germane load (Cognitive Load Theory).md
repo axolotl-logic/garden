@@ -1,0 +1,1 @@
+In Cognitive Load Theory, germane load is the type of cognitive load associated with the process of forming schemas in long term memory.

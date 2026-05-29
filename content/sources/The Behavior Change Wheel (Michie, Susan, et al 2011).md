@@ -77,7 +77,7 @@ The article presents a set of intervention categories and a set of  policy categ
 | Environmental/social planning |
 | Service Provision             |
 
-To me this appears to be a good fit for [[Journaling is a scaffold]].
+To me this appears to be a good fit for [[Journaling as a scaffold]].
 #behavior-change-interventionsmermaid 
 
 [^1]: knowledge and understanding

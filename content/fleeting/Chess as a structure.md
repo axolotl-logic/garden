@@ -1,4 +1,4 @@
->[!warning] Work in Progress
+>[!warning] Fleeting Note - work in progress
 
 A *Position* is the ordered set $\{board, turn, ep, rights\}$  where $board$ is a weighted graph of $64$ vertices, $turn \in \{\text{'w', 'b'}\}$, $0 >= ep <= 64$, $rights \subseteq \{\text{'wk', 'wq', 'bk', 'bq'}\}$. 
 
