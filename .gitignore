@@ -2,3 +2,5 @@ content/.obsidian
 content/Templates
 node_modules
 public/
+
+.quartz-cache
