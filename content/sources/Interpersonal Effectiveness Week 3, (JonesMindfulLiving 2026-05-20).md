@@ -1,6 +1,6 @@
 >[!warning] Source behind paywall
 
->[!info] These are notes on...
+>[!info] Source Note - notes on source
 > Replay 5/20/26: Interpersonal Effectiveness Week 3, https://video.jonesmindfulliving.com/videos/interpersonal-effectiveness-week-3
 
 The three goals of interpersonal effectiveness and their corresponding skills are figured below.
@@ -11,7 +11,7 @@ The three goals of interpersonal effectiveness and their corresponding skills ar
 | Relationship Effectiveness | Healthy new and existing relationships.             | GIVE     |
 | Self-Respect Effectiveness | Feeling good about one's self, especially behaviors | FAST     |
 
-You can make a sacrifice of short-term goals to support long-term goals and *vice versa*. However, one must keep them in balance. Repeatedly short changing one for the other causes an eventual implosion or explosion of the relationship. On top of this, extreme and unskilled behaviors get what you want in the short term at a high cost of the long-term. In essence, it can be harmful to chronically put relationship needs over one's own needs or the other way around.
+You can make a sacrifice of short-term goals to support long-term goals and *vice versa*. However, one must keep them in balance. Repeatedly short changing one for the other causes an eventual implosion or explosion of the relationship. On top of this, extreme and unskilled behaviors get what you want in the short term at a high cost of the long-term. It can be harmful to chronically put relationship needs over one's own needs or the other way around. In essence, one must be strategic around sacrifices.
 
 This week focuses on the GIVE skill.
 

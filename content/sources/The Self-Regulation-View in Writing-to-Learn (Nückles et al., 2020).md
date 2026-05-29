@@ -23,3 +23,15 @@ Learning journals have two parts. The first is to write down one's reflections o
 
 In free form writing, mental activity tends to be low and not show evidence of engaging self-regulated learning processes. Thus, the authors built prompts that offer instructional support so that sufficient and well directed mental effort occurred.  This is done via prompts targeted at eliciting cognitive and metacognitive learning strategies. This is what is referred to by the *self-regulation view* of writing to learn.
 
+
+Prompts can be used to encourage cognitive and metacognitive strategies. Without this support, learners are less likely to use those strategies. We assume they are capable, but need to be prompted otherwise wont. By activating these strategies, germane processing is in turn activated.
+
+Are all prompts created equal? We've split prompts into ones encouraging cognitive strategies and those encouraging metacognitive strategies. If a combination of prompts or cognitive only are used, there is a greater amount of learning than without. If only metacognitive prompts are given and there is no time to act on the remedial strategies it plans, learning will not be better than without prompts.
+
+A combination of the two prompts are best. It is critical to activate all sub-processes of self-regulated learning. The one's listed are organization and elaboration (cognitive) and monitoring of comprehension, and planning remedial strategies (metacognitive).  
+
+The sequence of what strategies are prompted matter. By engaging metacognitive strategies first and allowing for time to remediate, a solid foundation is built and a need for deep processing becomes clear.
+
+Students wrote better journal entries when they were showed examples and instructed to self-explain them.
+
+

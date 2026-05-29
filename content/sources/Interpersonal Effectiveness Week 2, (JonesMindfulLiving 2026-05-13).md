@@ -1,7 +1,7 @@
 >[!warning] Source behind paywall
 >
 
->[!info] These are notes on...
+>[!info] Source Note - notes on source
 > Replay 5/13/26: Interpersonal Effectiveness Week 2, https://joneswellness.vhx.tv/videos/interpersonal-effectiveness-week-2
 
 
