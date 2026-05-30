@@ -37,3 +37,4 @@ Third axiom is
 $$
 \text{If $A$ and $B$ are mutually exclusive, } P(A \cup B) = P(A) + P(B)
 $$
+#mathematics/probability #mathematics 

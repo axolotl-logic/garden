@@ -3,3 +3,5 @@ A Function as a Service (FaaS) from Amazon. Combine with other services to be wo
 Expose functions as an API: Use with API Gateway.
 
 Consuming a job queue: Use with Simple Queue Service (SQS), triggering lambda on insert.
+
+#computer-science/aws #software-engineering/backend #software-engineering/faas

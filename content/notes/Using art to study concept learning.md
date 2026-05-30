@@ -4,4 +4,6 @@ A variation of this task studies identifying art eras. As opposed to identifying
 
 Another variation includes pre-training artist names. This was shown to enhance the interleaving effect.[^1]
 
+#psychology/learning
+
 [^1]: Firth, Jonathan, et al. “A Systematic Review of Interleaving as a Concept Learning Strategy.” _Revista De Educacion_, 2021, [https://doi.org/10.1002/REV3.3266](https://doi.org/10.1002/REV3.3266).

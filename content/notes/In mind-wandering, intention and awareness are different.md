@@ -4,5 +4,7 @@ Coupling intentionality and awareness in this manner results in two logical impl
 
 They ultimately found that intentionality and awareness were distinct. 
 
+#psychology/mind-wandering
+
 
 [^1]: Seli, Paul, et al. “Intentionality and Meta-Awareness of Mind Wandering: Are They One and the Same, or Distinct Dimensions?” _Psychonomic Bulletin & Review_, 2017, [https://doi.org/10.3758/S13423-017-1249-0](https://doi.org/10.3758/S13423-017-1249-0).

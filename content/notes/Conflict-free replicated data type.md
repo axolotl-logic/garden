@@ -126,6 +126,4 @@ Used by collaborative real-time editors.
 
 Some known Sequence CRDTs are Treedoc, RGA, Woot, Logoot, and LSEQ.
 
-## See also
-
-[[Abstraction for conflict-free replicated data types]] which presents [[Abstract Converging Consistency (ACC)]].
+#software-engineering/local-first #computer-science/conflict-free-replicated-datatype #computer-science 

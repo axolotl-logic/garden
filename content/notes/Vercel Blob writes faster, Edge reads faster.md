@@ -4,3 +4,5 @@ Vercel has multiple file storage services meant to integrate with frontend appli
 | ------------------ | ------------ | ------------- |
 | Vercel Blob        |              | X             |
 | Vercel Edge Config | X            |               |
+
+#computer-science/databases #vercel

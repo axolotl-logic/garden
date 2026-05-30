@@ -1,7 +1,7 @@
 >[!info] These are notes on...
 >Nückles, Matthias, et al. “The Self-Regulation-View in Writing-to-Learn: Using Journal Writing to Optimize Cognitive Load in Self-Regulated Learning.” _Educational Psychology Review_, 2020, [https://doi.org/10.1007/S10648-020-09541-1](https://doi.org/10.1007/S10648-020-09541-1).
 
-Writing can be a valuable tool for thinking and learning. The authors have created the Freiburg Self-Regulated-Journal-Writing Approach designed to achieve the three goals of deep comprehension, increased motivation, and long-term retention. Instructional support, provided by this approach, is needed to achieve these goals.
+Writing can be a valuable tool for thinking and learning. The stated goals are to encourage deep comprehension, increased motivation, and long-term retention. Instructional support is needed to achieve these goals.
 
 The authors propose a new theoretical perspective on self writing to learn, which they dub the self-regulation view of writing-to-learn. This perspective is derived from classic theoretical views on writing-to-learn which diverge in what they suggest should be encouraged for optimal outcomes. They studied this by testing different support methods to optimize two things: 1. cognitive load and 2. learning outcome 
 
@@ -26,7 +26,7 @@ In free form writing, mental activity tends to be low and not show evidence of e
 
 Prompts can be used to encourage cognitive and metacognitive strategies. Without this support, learners are less likely to use those strategies. We assume they are capable, but need to be prompted otherwise wont. By activating these strategies, germane processing is in turn activated.
 
-Are all prompts created equal? We've split prompts into ones encouraging cognitive strategies and those encouraging metacognitive strategies. If a combination of prompts or cognitive only are used, there is a greater amount of learning than without. If only metacognitive prompts are given and there is no time to act on the remedial strategies it plans, learning will not be better than without prompts.
+Are all prompts created equal? They split prompts into ones encouraging cognitive strategies and those encouraging metacognitive strategies. If a combination of prompts or cognitive only are used, there is a greater amount of learning than without. If only metacognitive prompts are given and there is no time to act on the remedial strategies it plans, learning will not be better than without prompts.
 
 A combination of the two prompts are best. It is critical to activate all sub-processes of self-regulated learning. The one's listed are organization and elaboration (cognitive) and monitoring of comprehension, and planning remedial strategies (metacognitive).  
 
@@ -34,4 +34,15 @@ The sequence of what strategies are prompted matter. By engaging metacognitive s
 
 Students wrote better journal entries when they were showed examples and instructed to self-explain them.
 
+After 6 weeks, the prompted group diminished in usage of strategies and height of learning outcomes over the not-prompted group. A hypothesis for this is that after 6 weeks, the guidance which used to encourage [[Germane load (Cognitive Load Theory)]] now provided [[Extraneous load (Cognitive Load Theory)]]. In line with existing research, the authors conclude that prompts should be faded according to the learner's expertise in learning strategies.
+
+Furthermore, while providing feedback to learner's with low quality journals was beneficial, it was detrimental to those with high quality ones. This is another instance of the *expertise reversal effect*
+
+Overtime, learners feel less motivated to journal write. Given this happened for both fading and non-fading prompts, it is concluded that it may be due to the perception of high amounts of efforts, i.e. a motivational cost.
+
+In addition, journal writing itself may incur a motivational cost.
+
+To investigate ways to improve motivations, existing research prompted learners about why the learning material is relevant to them personally. This was found to increase content-related motivation and acceptance of the task. This referred in the paper as a "personal utility prompt". 
+
+Researchers found that students whose goal was structured  to be mastery outperformed those who whose goal was to be better than their classmates. Thus, encouraging mastery over performance benefits learning.
 

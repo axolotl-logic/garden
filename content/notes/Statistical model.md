@@ -6,3 +6,4 @@ Formally a statistical model is a pair $(S,{\mathcal {P}})$.
 * $S$ is the sample space (possible observations)
 * $\mathcal{P}$ is a set of probability distributions on $S$.
 
+#mathematics/statistics #mathematics 

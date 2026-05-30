@@ -2,6 +2,6 @@ Project documentation building with [[Markdown]] source files and single [[YAML]
 
 https://www.mkdocs.org/
 
-The homepage markets itself as being fast, simple, and attractive, 
+The homepage markets itself as being fast, simple, and attractive.
 
-
+#products #static-site-generation #documentation

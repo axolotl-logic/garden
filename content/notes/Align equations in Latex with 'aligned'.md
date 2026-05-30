@@ -7,3 +7,4 @@ $$
 x & =3
 \end{aligned}
 $$
+#typesetting #mathematics

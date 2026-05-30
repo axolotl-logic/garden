@@ -78,6 +78,6 @@ The article presents a set of intervention categories and a set of  policy categ
 | Service Provision             |
 
 To me this appears to be a good fit for [[Journaling as a scaffold]].
-#behavior-change-interventionsmermaid 
+#psychology/behavior-change-interventions
 
 [^1]: knowledge and understanding

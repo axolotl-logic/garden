@@ -9,3 +9,5 @@ From this follows
 * Countable intersections
 
 $(X,\Sigma)$ is called a measurable space.
+
+#mathematics #mathematics/measure-theory

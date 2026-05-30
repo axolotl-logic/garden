@@ -10,3 +10,5 @@ modernize-*
 performance-*
 readability-*
 ```
+
+#software-engineering #software-engineering/c-programming-language

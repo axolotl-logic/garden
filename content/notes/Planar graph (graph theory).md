@@ -5,6 +5,6 @@ A graph is considered planar if it can be laid out on a 2d plane without edges c
 Subgraphs of planar graphs are themselves planar
 Supergraphs of a non planar graphs are themselves nonplanar
 
-## Faces
+Regions of a planner graph are known as "faces".
 
-When counting faces - also known as regions - of a planar graph
+#mathematics/graph-theory #mathematics 

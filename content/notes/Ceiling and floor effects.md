@@ -1,1 +1,3 @@
 The ceiling and floor effects are to studies what clipping is to audio engineering. If many scores results at the bottom or top of the range, one is unable to show an effect, data potentially being lost by the bound. 
+
+#mathematics/statistics
