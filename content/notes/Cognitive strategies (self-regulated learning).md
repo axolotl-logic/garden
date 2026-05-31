@@ -1,0 +1,1 @@
+Cognitive strategies refer to ways a learner can actively engage in deepening their memory via such processes as organization and elaboration.

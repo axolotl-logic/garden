@@ -9,7 +9,7 @@ This site is an interconnected collection of notes. I attempt to attend to it li
 
 ## Who am I?
 
-I am a recovering software engineer who loves to learn and share. My mission is to benefit others and help forward humanity's collective creativity, wisdom, and technique. I am neuro-spicy 
+I am a recovering software engineer who loves to learn and share. My mission is to benefit others and help forward humanity's collective creativity, wisdom, and technique. I am neuro-spicy and queer. Proud cat mom.
 
 ## Why is this?
 
