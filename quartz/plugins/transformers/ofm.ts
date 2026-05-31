@@ -354,16 +354,17 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   file.data.frontmatter.tags = [...new Set([...noteTags, tag])]
                 }
 
-                // Render each level of a nested tag as its own link so that parent
-                // tags (e.g. "mathematics" in "mathematics/probability") are clickable.
+                // Render the whole nested tag as a single pill, with each level its
+                // own link inside so that parent tags (e.g. "mathematics" in
+                // "mathematics/probability") remain clickable.
                 const prefixes = getAllSegmentPrefixes(tag)
-                return prefixes.flatMap((prefix, idx) => {
+                const children = prefixes.flatMap((prefix, idx) => {
                   const link = {
                     type: "link" as const,
                     url: base + `/tags/${prefix}`,
                     data: {
                       hProperties: {
-                        className: ["tag-link"],
+                        className: ["tag-segment"],
                       },
                     },
                     children: [
@@ -375,6 +376,18 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   }
                   return idx === 0 ? [link] : [{ type: "text" as const, value: "/" }, link]
                 })
+
+                // wrapper is a custom mdast node rendered as a <span> via hName
+                return {
+                  type: "tagPill",
+                  children,
+                  data: {
+                    hName: "span",
+                    hProperties: {
+                      className: ["tag-pill"],
+                    },
+                  },
+                } as any
               },
             ])
           }

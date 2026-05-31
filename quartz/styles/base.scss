@@ -129,6 +129,37 @@ a {
   }
 }
 
+// Inline tags within rendered note content are shown as a single pill.
+// Nested tags keep each segment clickable inside the one pill.
+article .tag-pill {
+  display: inline-block;
+  background-color: var(--highlight);
+  border: 1px solid var(--lightgray);
+  border-radius: 1rem;
+  padding: 0 0.5rem;
+  margin: 0 0.1rem;
+  line-height: 1.5;
+  font-size: 0.95em;
+  white-space: nowrap;
+
+  &::before {
+    content: "#";
+    opacity: 0.6;
+  }
+
+  // segment links sit flush inside the pill (no individual highlight/padding)
+  a.tag-segment {
+    background-color: transparent;
+    border-radius: 0;
+    padding: 0;
+    color: var(--secondary);
+
+    &:hover {
+      color: var(--tertiary);
+    }
+  }
+}
+
 .flex-component {
   display: flex;
 }
