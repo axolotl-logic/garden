@@ -22,7 +22,13 @@ import checkboxScript from "../../components/scripts/checkbox.inline"
 // @ts-ignore
 import mermaidScript from "../../components/scripts/mermaid.inline"
 import mermaidStyle from "../../components/styles/mermaid.inline.scss"
-import { FilePath, pathToRoot, slugTag, slugifyFilePath } from "../../util/path"
+import {
+  FilePath,
+  getAllSegmentPrefixes,
+  pathToRoot,
+  slugTag,
+  slugifyFilePath,
+} from "../../util/path"
 import { toHast } from "mdast-util-to-hast"
 import { toHtml } from "hast-util-to-html"
 import { capitalize } from "../../util/lang"
@@ -348,21 +354,27 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   file.data.frontmatter.tags = [...new Set([...noteTags, tag])]
                 }
 
-                return {
-                  type: "link",
-                  url: base + `/tags/${tag}`,
-                  data: {
-                    hProperties: {
-                      className: ["tag-link"],
+                // Render each level of a nested tag as its own link so that parent
+                // tags (e.g. "mathematics" in "mathematics/probability") are clickable.
+                const prefixes = getAllSegmentPrefixes(tag)
+                return prefixes.flatMap((prefix, idx) => {
+                  const link = {
+                    type: "link" as const,
+                    url: base + `/tags/${prefix}`,
+                    data: {
+                      hProperties: {
+                        className: ["tag-link"],
+                      },
                     },
-                  },
-                  children: [
-                    {
-                      type: "text",
-                      value: tag,
-                    },
-                  ],
-                }
+                    children: [
+                      {
+                        type: "text" as const,
+                        value: prefix.split("/").at(-1)!,
+                      },
+                    ],
+                  }
+                  return idx === 0 ? [link] : [{ type: "text" as const, value: "/" }, link]
+                })
               },
             ])
           }
