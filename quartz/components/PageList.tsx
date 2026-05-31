@@ -1,4 +1,4 @@
-import { FullSlug, isFolderPath, resolveRelative } from "../util/path"
+import { FullSlug, getAllSegmentPrefixes, isFolderPath, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { Date, getDate } from "./Date"
 import { QuartzComponent, QuartzComponentProps } from "./types"
@@ -64,11 +64,18 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     list = list.slice(0, limit)
   }
 
+  const currentTag = fileData.slug?.startsWith("tags/")
+    ? fileData.slug.slice("tags/".length)
+    : null
+
   return (
     <ul class="section-ul">
       {list.map((page) => {
         const title = page.frontmatter?.title
-        const tags = page.frontmatter?.tags ?? []
+        const allTags = page.frontmatter?.tags ?? []
+        const tags = currentTag
+          ? allTags.filter((t) => t !== currentTag && !currentTag.startsWith(t + "/"))
+          : allTags
 
         return (
           <li class="section-li">
@@ -82,19 +89,33 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                     {title}
                   </a>
                 </h3>
+                {tags.length > 0 && (
+                  <div class="tags">
+                    {tags.map((tag) => {
+                      const prefixes = getAllSegmentPrefixes(tag)
+                      return (
+                        <span class="tag-pill">
+                          {prefixes.flatMap((prefix, idx) => {
+                            const segment = prefix.split("/").at(-1)!
+                            const link = (
+                              <a
+                                class="internal tag-segment"
+                                href={resolveRelative(
+                                  fileData.slug!,
+                                  `tags/${prefix}` as FullSlug,
+                                )}
+                              >
+                                {segment}
+                              </a>
+                            )
+                            return idx === 0 ? [link] : ["/", link]
+                          })}
+                        </span>
+                      )
+                    })}
+                  </div>
+                )}
               </div>
-              <ul class="tags">
-                {tags.map((tag) => (
-                  <li>
-                    <a
-                      class="internal tag-link"
-                      href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
-                    >
-                      {tag}
-                    </a>
-                  </li>
-                ))}
-              </ul>
             </div>
           </li>
         )
@@ -108,7 +129,31 @@ PageList.css = `
   margin: 0;
 }
 
-.section > .tags {
-  margin: 0;
+.desc .tag-pill {
+  display: inline-block;
+  background-color: var(--highlight);
+  border: 1px solid var(--lightgray);
+  border-radius: 1rem;
+  padding: 0 0.5rem;
+  margin: 0 0.1rem;
+  line-height: 1.5;
+  font-size: 0.95em;
+  white-space: nowrap;
+}
+
+.desc .tag-pill::before {
+  content: "#";
+  opacity: 0.6;
+}
+
+.desc .tag-pill a.tag-segment {
+  background-color: transparent;
+  border-radius: 0;
+  padding: 0;
+  color: var(--secondary);
+}
+
+.desc .tag-pill a.tag-segment:hover {
+  color: var(--tertiary);
 }
 `
