@@ -1,16 +1,37 @@
 import { i18n } from "../i18n"
-import { FullSlug, getFileExtension, joinSegments, pathToRoot } from "../util/path"
+import { FullSlug, getFileExtension, isAbsoluteURL, joinSegments, pathToRoot } from "../util/path"
 import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
 import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
+import { Element } from "hast"
+
+// fallback social image when a page has no image of its own
+const DEFAULT_OG_IMAGE = "assets/axolotl-logo.png"
+
+// Find the src of the first <img> in the rendered page content, if any
+function findFirstImageSrc(node: unknown): string | undefined {
+  const el = node as Partial<Element> & { children?: unknown[] }
+  if (el?.type === "element" && el.tagName === "img" && typeof el.properties?.src === "string") {
+    return el.properties.src
+  }
+  if (Array.isArray(el?.children)) {
+    for (const child of el.children) {
+      const found = findFirstImageSrc(child)
+      if (found) return found
+    }
+  }
+  return undefined
+}
+
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,
     fileData,
     externalResources,
     ctx,
+    tree,
   }: QuartzComponentProps) => {
     const titleSuffix = cfg.pageTitleSuffix ?? ""
     const title =
@@ -34,7 +55,26 @@ export default (() => {
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,
     )
-    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
+
+    // Resolve the social image: an explicit frontmatter image wins, then the first
+    // image in the page content, then the site-wide logo fallback. All resolved to
+    // absolute URLs so crawlers can fetch them.
+    const baseUrlString = `https://${cfg.baseUrl ?? "example.com"}`
+    const frontmatterImage = fileData.frontmatter?.socialImage
+    let ogImagePath: string
+    if (frontmatterImage) {
+      ogImagePath = isAbsoluteURL(frontmatterImage)
+        ? frontmatterImage
+        : `${baseUrlString}/static/${frontmatterImage}`
+    } else {
+      const firstImage = findFirstImageSrc(tree)
+      // first content image is page-relative (e.g. "../assets/foo.png"); resolve it
+      // against the page URL to get an absolute path
+      ogImagePath =
+        firstImage && fileData.slug !== "404"
+          ? new URL(firstImage, `${baseUrlString}/${fileData.slug}`).href
+          : `${baseUrlString}/${DEFAULT_OG_IMAGE}`
+    }
 
     return (
       <head>
@@ -64,12 +104,12 @@ export default (() => {
 
         {!usesCustomOgImage && (
           <>
-            <meta property="og:image" content={ogImageDefaultPath} />
-            <meta property="og:image:url" content={ogImageDefaultPath} />
-            <meta name="twitter:image" content={ogImageDefaultPath} />
+            <meta property="og:image" content={ogImagePath} />
+            <meta property="og:image:url" content={ogImagePath} />
+            <meta name="twitter:image" content={ogImagePath} />
             <meta
               property="og:image:type"
-              content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
+              content={`image/${getFileExtension(ogImagePath) ?? "png"}`}
             />
           </>
         )}
