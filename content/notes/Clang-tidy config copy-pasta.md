@@ -11,4 +11,4 @@ performance-*
 readability-*
 ```
 
-#software-engineering #software-engineering/c-programming-language
+#computer-science/software-engineering #computer-science/software-engineering/c-programming-language

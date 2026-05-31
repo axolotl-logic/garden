@@ -4,4 +4,4 @@ Important distinctions include:
 * Current vs Long Term
 * Tangible vs Intangible
 
-#accounting 
+#business/accounting 

@@ -2,4 +2,4 @@
 
 The problem solved is that server code can be built into the client bundle unintentionally without causing an error.
 
-#software-engineering/backend #infosec
+#computer-science/software-engineering/backend #computer-science/infosec

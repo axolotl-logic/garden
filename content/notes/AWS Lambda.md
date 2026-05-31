@@ -4,4 +4,4 @@ Expose functions as an API: Use with API Gateway.
 
 Consuming a job queue: Use with Simple Queue Service (SQS), triggering lambda on insert.
 
-#computer-science/aws #software-engineering/backend #software-engineering/faas
+#computer-science/aws #computer-science/software-engineering/backend #computer-science/software-engineering/faas

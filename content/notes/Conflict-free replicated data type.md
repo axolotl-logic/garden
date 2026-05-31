@@ -126,4 +126,4 @@ Used by collaborative real-time editors.
 
 Some known Sequence CRDTs are Treedoc, RGA, Woot, Logoot, and LSEQ.
 
-#software-engineering/local-first #computer-science/conflict-free-replicated-datatype #computer-science 
+#computer-science/software-engineering/local-first #computer-science/conflict-free-replicated-datatype #computer-science 

@@ -6,6 +6,6 @@ There exists single player role playing games that are driven by journal writing
 
 There are others that add fantasy elements to every day chores and tasks. 
 
-#psychology #psychology/journaling #product-ideas
+#business/product-ideas #psychology/journaling 
 
 [^1]: Nückles, Matthias, et al. “The Self-Regulation-View in Writing-to-Learn: Using Journal Writing to Optimize Cognitive Load in Self-Regulated Learning.” _Educational Psychology Review_, 2020, [https://doi.org/10.1007/S10648-020-09541-1](https://doi.org/10.1007/S10648-020-09541-1).
