@@ -265,7 +265,7 @@ function createTagFolderNode(
 
   // Parent tags expand/collapse on click rather than navigating, so keep the button.
   const span = titleContainer.querySelector(".folder-title") as HTMLElement
-  span.textContent = `#${node.segment}`
+  span.textContent = node.segment
   const count = document.createElement("span")
   count.className = "tag-count"
   count.textContent = String(node.count)

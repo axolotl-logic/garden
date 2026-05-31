@@ -108,7 +108,7 @@ export default ((userOpts?: Partial<Options>) => {
           aria-expanded={true}
         >
           <h2>
-            {opts.title ?? (opts.useTags ? "Tags" : i18n(cfg.locale).components.explorer.title)}
+            {opts.title ?? "Explore"}
           </h2>
           <svg
             xmlns="http://www.w3.org/2000/svg"
