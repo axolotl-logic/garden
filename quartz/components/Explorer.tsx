@@ -16,6 +16,8 @@ export interface Options {
   folderDefaultState: "collapsed" | "open"
   folderClickBehavior: "collapse" | "link"
   useSavedState: boolean
+  // when true, navigate the nested tag hierarchy instead of the folder tree
+  useTags: boolean
   sortFn: (a: FileTrieNode, b: FileTrieNode) => number
   filterFn: (node: FileTrieNode) => boolean
   mapFn: (node: FileTrieNode) => void
@@ -26,6 +28,7 @@ const defaultOptions: Options = {
   folderDefaultState: "collapsed",
   folderClickBehavior: "link",
   useSavedState: true,
+  useTags: false,
   mapFn: (node) => {
     return node
   },
@@ -69,6 +72,7 @@ export default ((userOpts?: Partial<Options>) => {
         data-behavior={opts.folderClickBehavior}
         data-collapsed={opts.folderDefaultState}
         data-savestate={opts.useSavedState}
+        data-use-tags={opts.useTags}
         data-data-fns={JSON.stringify({
           order: opts.order,
           sortFn: opts.sortFn.toString(),
@@ -103,7 +107,9 @@ export default ((userOpts?: Partial<Options>) => {
           data-mobile={false}
           aria-expanded={true}
         >
-          <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
+          <h2>
+            {opts.title ?? (opts.useTags ? "Tags" : i18n(cfg.locale).components.explorer.title)}
+          </h2>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="14"
