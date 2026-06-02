@@ -4,7 +4,7 @@ In Cognitive Load Theory, cognitive processes have a cost of mental effort. This
 2. [[Extraneous load (Cognitive Load Theory)|Extraneous load]] - Cost that is unnecessary
 3. [[Germane load (Cognitive Load Theory)|Germane load]] - Cost of forming the schema in long-term memory
 
-See also: [[germane load is a function of intrinsic]]
+See also: [[germane load is a function of intrinsic load]]
 
 #psychology/cognitive-load-theory 
 

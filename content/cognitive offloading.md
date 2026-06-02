@@ -1,0 +1,1 @@
+Getting thoughts or difficult concepts onto a page in order to free up working memory for deeper analysis.

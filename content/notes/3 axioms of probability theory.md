@@ -1,6 +1,4 @@
-3 axioms that are the basis of [[probability theory]].
-
-Probability is described with set theory.
+Kolmogorov's axioms formalize probability theory with set theory. They serve as a foundation on which to build out the rest of probability theory.
 
 ## Definitions
 
