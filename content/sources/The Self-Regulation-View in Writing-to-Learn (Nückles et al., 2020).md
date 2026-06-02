@@ -46,3 +46,4 @@ To investigate ways to improve motivations, existing research prompted learners 
 
 Researchers found that students whose goal was structured  to be mastery outperformed those who whose goal was to be better than their classmates. Thus, encouraging mastery over performance benefits learning.
 
+#source-note 

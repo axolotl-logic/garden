@@ -43,3 +43,5 @@ Validation is acknowledgement.
 Validate, *iff* valid/true. Some things a person might validate include feelings, emotions, beliefs, opinions, suffering, difficulties, and facts.
 
 Give body language that you're hearing the other person.
+
+#source-note 

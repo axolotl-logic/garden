@@ -65,3 +65,5 @@ For asking or saying no.
 **A**ppear Confident - confident without being aggressive
 
 **N**egotiate - Give to get
+
+#source-note

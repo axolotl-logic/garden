@@ -7,4 +7,4 @@ $$
 x & =3
 \end{aligned}
 $$
-#computer-science/typesetting #mathematics
+#computer-science/typesetting

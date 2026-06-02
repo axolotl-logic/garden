@@ -1,8 +1,10 @@
-In Cognitive Load Theory, working memory can be thought of a finite resource that is consumed by three kinds of load.[^1] 
+In Cognitive Load Theory, cognitive processes have a cost of mental effort. This cost is called cognitive load and has been broken down into three kinds.[^1] 
 
-1. [[Intrinsic load (Cognitive Load Theory)|Intrinsic load]] - elements needed to be processed at once to learn
-2. [[Extraneous load (Cognitive Load Theory)|Extraneous load]] - elements that do not benefit the learning
-3. [[Germane load (Cognitive Load Theory)|Germane load]] - the effort to form the schema in long-term memory 
+1. [[Intrinsic load (Cognitive Load Theory)|Intrinsic load]] - Cost of holding items needed for schema construction
+2. [[Extraneous load (Cognitive Load Theory)|Extraneous load]] - Cost that is unnecessary
+3. [[Germane load (Cognitive Load Theory)|Germane load]] - Cost of forming the schema in long-term memory
+
+See also: [[germane load is a function of intrinsic]]
 
 #psychology/cognitive-load-theory 
 

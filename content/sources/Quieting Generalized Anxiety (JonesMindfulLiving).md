@@ -21,3 +21,5 @@ One can learn to **control their own thoughts**. This control does not function 
 **Worry time** is a chunk of scheduled time to be mindful of one's worry, on a daily basis. In that period, release all your worries with full permission. After the period ends, plan to worry about an anxiety during the next period. This trains the brain the how and when.
 
 **Opposite action** is the DBT skill of acting counter to an action urge such as by changing physiology (e.g. feeling protection when angered).
+
+#source-note 

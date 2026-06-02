@@ -46,3 +46,4 @@ Don't dwell. Don't apologize in a way that hurts your self respect over time. Ex
 > Stick to Values
 > Be Truthful
 
+#source-note 
