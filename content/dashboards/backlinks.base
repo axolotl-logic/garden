@@ -1,0 +1,14 @@
+formulas:
+  backlink_count: file.backlinks.length
+views:
+  - type: table
+    name: Backlink Descending
+    filters:
+      and:
+        - file.folder == "notes"
+    order:
+      - file.name
+      - formula.backlink_count
+    sort:
+      - property: formula.backlink_count
+        direction: ASC

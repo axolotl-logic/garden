@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Untagged
+    filters:
+      and:
+        - file.folder == "notes"
+        - file.tags.isEmpty()
+    order:
+      - file.name

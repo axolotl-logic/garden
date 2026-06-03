@@ -4,4 +4,5 @@ Note that what may produce germane load for some, may become [[Extraneous load (
 
 It is one of the [[3 kinds of cognitive load]]
 
+#psychology/learning 
 
