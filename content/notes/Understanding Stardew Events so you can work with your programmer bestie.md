@@ -10,7 +10,7 @@ Next up are the *preconditions*. A precondition is something that must be true i
 
 After location and preconditions, one must define what happens during the event. This is referred to as the *event script*.
 
-The event script is like a movie script but for humans. It is a sequence *commands*. What is a command? Think of it is telling the game to do something. Some commands are for orchestrating NPC movement and dialog, while many others change aspects of the world, player, and more.
+The event script is like a movie script but for the game. It is a sequence *commands*. What is a command? Think of it is telling the game to do something. Some commands are for orchestrating NPC movement and dialog, while many others change aspects of the world, player, and more.
 
 Small set of example commands 
 * Give an item via grab menu
