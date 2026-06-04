@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"8927823de994996b","type":"file","file":"dashboards/untagged.base","x":-740,"y":-540,"width":560,"height":380},
-		{"id":"234c37f29e95266c","type":"file","file":"dashboards/backlinks.base","x":-140,"y":-540,"width":520,"height":1420}
+		{"id":"234c37f29e95266c","type":"file","file":"dashboards/backlinks.base","x":-140,"y":-540,"width":520,"height":1420},
+		{"id":"c53db28a8b72a5bd","x":-920,"y":-80,"width":660,"height":460,"type":"file","file":"dashboards/magic.base"}
 	],
 	"edges":[]
 }
