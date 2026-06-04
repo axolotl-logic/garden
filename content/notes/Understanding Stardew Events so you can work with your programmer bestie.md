@@ -1,6 +1,6 @@
 >[!warning] Work in progress!
 
-An event can be conceptualized as all of a *location*, set of *preconditions*, and a series of *commands* called the event script. This covers the what, where, and when of *things* happening. Let's look at each of these so it's less confusing.
+An event can be conceptualized as all of a *location*, set of *preconditions*, and a series of *commands* called the event script. This covers the what, where, and when of things happening in an event. Let's look at each of these in-turn so it's less confusing.
 
 First up is *location*. Ever notice how events trigger when you enter a new area? That area is specific to the event and is *where* the event will trigger. Every event starts with specifying that location.
 
@@ -29,11 +29,9 @@ These initial commands answer (in order) these questions:
 2. **Location on map** Where in x,y coordinates should this happen within the already specified map?[^1]
 3. **Characters** Who will be at the scene? Where will they be?  Which way should they be facing? Repeat for each character visible at start of the event.
 
-After those commands, you can execute a wide variety of others.
+After those commands, you can execute a wide variety of others. If you've seen it happen in Stardew Valley, there may be a command to make it happen, so ask your programmer bestie.
 
-If you've seen it happen in Stardew Valley, there may be a command to make it happen, so ask.
-
-Try writing the scene out like it's a script to a movie or a play. Worry about locations letter and focus on dialogue. Then after having that structure, add stage directions.
+Try writing the scene out like it's a script to a movie or play. Worry about locations later and focus on dialogue. Then, after having that structure, add stage directions. First the bones, then the flesh, then the skin. Good luck!
 
 [^1]: Use the Debug Mod to find the location.
 
