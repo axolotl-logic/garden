@@ -1,1 +1,3 @@
 Which kind of the [[3 kinds of cognitive load]] is produced from a given aspect of the environment, task, or learner differs depending on the learner. See [[Expertise reversal effect]] as an example.
+
+#psychology/learning 
