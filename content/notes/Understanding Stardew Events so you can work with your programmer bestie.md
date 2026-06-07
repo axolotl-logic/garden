@@ -1,4 +1,3 @@
->[!warning] Work in progress!
 
 An event can be conceptualized as all of a *location*, set of *preconditions*, and a series of *commands* called the event script. This covers the what, where, and when of things happening in an event. Let's look at each of these in-turn so it's less confusing.
 
