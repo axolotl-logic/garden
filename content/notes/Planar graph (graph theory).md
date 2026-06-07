@@ -7,4 +7,4 @@ Supergraphs of a non planar graphs are themselves nonplanar
 
 Regions of a planner graph are known as "faces".
 
-#mathematics/graph-theory #mathematics 
+#mathematics/graph-theory

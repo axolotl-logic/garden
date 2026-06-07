@@ -1,0 +1,25 @@
+formulas:
+  backlink_count: file.backlinks.length
+  forward link count: file.links.length
+properties:
+  formula.backlink_count:
+    displayName: backlink count
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "notes"
+        - formula.backlink_count == 0
+        - formula["forward link count"] == 0
+    order:
+      - file.name
+      - formula.backlink_count
+      - formula.forward link count
+    sort:
+      - property: formula.backlink_count
+        direction: ASC
+    columnSize:
+      file.name: 527
+      formula.backlink_count: 191
+      formula.forward link count: 196

@@ -10,4 +10,4 @@ From this follows
 
 $(X,\Sigma)$ is called a measurable space.
 
-#mathematics #mathematics/measure-theory
+#mathematics/measure-theory

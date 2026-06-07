@@ -3,7 +3,7 @@ An event can be conceptualized as all of a *location*, set of *preconditions*, a
 
 First up is *location*. Ever notice how events trigger when you enter a new area? That area is specific to the event and is *where* the event will trigger. Every event starts with specifying that location.
 
-To find a location name, you can can use the Debug Mod. When activating it, a crosshairs will appear and hovering over a section of the screen will reveal the name of the location along with the X,Y coordinates within that location. You will just need the location name.
+To find a location name, you can can use the [Debug Mode](https://www.nexusmods.com/stardewvalley/mods/679) mod. When activating it, hovering over a section of the screen will reveal the name of the location along with the X,Y coordinates within that location. You will just need the location name.
 
 Next up are the *preconditions*. A precondition is something that must be true in order for an event to occur. For example, perhaps a month and day of the year are required. And maybe it requires a certain amount of friendship. These would be the preconditions for the event.
 

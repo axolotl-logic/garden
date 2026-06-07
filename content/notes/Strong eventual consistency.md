@@ -2,4 +2,4 @@ A guarantee that if no new updates are made, eventually access of all nodes/repl
 
 A common approach is [[Conflict-free replicated data type (CRDT)]]
 
-#computer-science 
+#computer-science/theory 
