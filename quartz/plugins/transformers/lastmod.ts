@@ -1,8 +1,23 @@
 import fs from "fs"
+import { execFile } from "child_process"
 import { Repository } from "@napi-rs/simple-git"
 import { QuartzTransformerPlugin } from "../types"
 import path from "path"
-import { styleText } from "util"
+import { styleText, promisify } from "util"
+
+const execFileAsync = promisify(execFile)
+
+// The git binding only exposes the *latest* modified date, so we shell out to
+// `git log` to find the commit that first added the file (its creation date).
+async function gitCreatedDate(workdir: string, relativePath: string): Promise<string | undefined> {
+  const { stdout } = await execFileAsync(
+    "git",
+    ["-C", workdir, "log", "--follow", "--diff-filter=A", "--format=%aI", "--", relativePath],
+    { encoding: "utf8" },
+  )
+  // Newest-first, so the last entry is the earliest add (follows renames too)
+  return stdout.trim().split("\n").filter(Boolean).at(-1)
+}
 
 export interface Options {
   priority: ("frontmatter" | "git" | "filesystem")[]
@@ -81,6 +96,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                 try {
                   const relativePath = path.relative(repositoryWorkdir, fullFp)
                   modified ||= await repo.getFileLatestModifiedDateAsync(relativePath)
+                  created ||= await gitCreatedDate(repositoryWorkdir, relativePath)
                 } catch {
                   console.log(
                     styleText(
