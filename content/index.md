@@ -1,7 +1,7 @@
 ---
 title: Welcome to my Cosmic Garden
 ---
-# ꒰(˶• ᴗ •˶)꒱
+	# ꒰(˶• ᴗ •˶)꒱
 
 ## What is this?
 

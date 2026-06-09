@@ -1,12 +1,10 @@
 >[!important] Heart conversion
 > 1 heart = 250
 
-To modify your hearts with an NPC, use the `debug friend` command. This accepts as arguments the NPC's name and the desired level of friendship.
+To modify your hearts with an NPC, use the `debug friendship` command. This accepts as arguments the NPC's name and the desired level of friendship.
 
-For example if you wanted to have 10 hearts with Abagail, you would [[where to enter console commands in Stardew Valley|enter in the SMAPI console]] `friend Abagail 2500`.
+For example if you wanted to have 10 hearts with Abagail, you would [[where to enter console commands in Stardew Valley|enter in the SMAPI console]] `debug friendship Abagail 2500`.
 
-To reset hearts to 0 try `friend Abagail 0`. The events also need to be reset if you want to see them again. Learn [[how to reset events in Stardew Valley]].
-
-
+To reset hearts to 0 try `debug friendship Abagail 0`. The events also need to be reset if you want to see them again. Learn [[how to reset events in Stardew Valley]].
 
 #stardew-valley/modding 
