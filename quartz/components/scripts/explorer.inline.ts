@@ -163,6 +163,9 @@ function createFolderNode(
   return li
 }
 
+// Maximum number of nested subhashtags to display under a parent tag
+const MAX_SUBHASHTAGS = 3
+
 function tagSegmentSort(a: TagTreeNode, b: TagTreeNode): number {
   // most-used tags first, breaking ties alphabetically
   if (a.count !== b.count) return b.count - a.count
@@ -288,7 +291,8 @@ function createTagFolderNode(
     folderOuter.classList.add("open")
   }
 
-  const children = [...node.children.values()].sort(tagSegmentSort)
+  // Only surface the top few subhashtags (most-used first) to keep the tree compact
+  const children = [...node.children.values()].sort(tagSegmentSort).slice(0, MAX_SUBHASHTAGS)
   for (const child of children) {
     ul.appendChild(
       child.children.size > 0
