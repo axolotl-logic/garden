@@ -4,4 +4,4 @@ For example, over the course of an intervention, as learners improve, what was o
 
 In terms of cognitive load, this can be framed as the introduction of [[Extraneous load (Cognitive Load Theory)]] via instructional elements or  strategies that would have otherwise contributed only to [[Intrinsic load (Cognitive Load Theory)]] or activated [[Germane load (Cognitive Load Theory)]].
 
-#psychology/learning/effects
+#psychology/learning

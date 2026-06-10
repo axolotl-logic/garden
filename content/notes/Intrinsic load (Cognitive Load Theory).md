@@ -2,4 +2,4 @@ In Cognitive Load Theory, intrinsic load is the cognitive load  of holding relev
 
 It is one of the [[3 kinds of cognitive load]]
 
-#psychology/cognitive-load-theory 
+#psychology/learning 

@@ -4,6 +4,6 @@ However, depression inhibits the recall of a memory's details, potentially inhib
 
 McFarland et al. 2017[^1] showed that, even in the presence of depression, existing interventions can improve access to internal-details of recalled past and imagined future scenarios. Furthermore, they can increase problem solving skills.
 
-#psychology/depression #psychology/problem-solving #psychology/creativity #psychology/memory
+#psychology/depression #psychology/problem-solving #psychology/creativity #psychology/learning
 
 [^1]: McFarland, Craig P., et al. “Enhancing Memory and Imagination Improves Problem Solving among Individuals with Depression.” _Memory & Cognition_, 2017, [https://doi.org/10.3758/S13421-017-0706-3](https://doi.org/10.3758/S13421-017-0706-3).
