@@ -1,3 +1,6 @@
+filters:
+  and:
+    - file.folder == "notes"
 formulas:
   backlink_count: file.backlinks.length
   forward link count: file.links.length
@@ -5,21 +8,30 @@ properties:
   formula.backlink_count:
     displayName: backlink count
 views:
-  - type: table
-    name: Table
+  - type: cards
+    name: Issolated
     filters:
-      and:
-        - file.folder == "notes"
+      or:
         - formula.backlink_count == 0
         - formula["forward link count"] == 0
     order:
       - file.name
       - formula.backlink_count
       - formula.forward link count
+      - file.size
     sort:
-      - property: formula.backlink_count
+      - property: file.size
         direction: ASC
     columnSize:
       file.name: 527
       formula.backlink_count: 191
       formula.forward link count: 196
+  - type: list
+    name: By tag
+    groupBy:
+      property: file.tags
+      direction: ASC
+    order:
+      - file.name
+      - formula.backlink_count
+      - formula.forward link count

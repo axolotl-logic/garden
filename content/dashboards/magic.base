@@ -9,6 +9,4 @@ views:
     order:
       - formula.Magic
       - file.name
-    sort:
-      - property: formula.Magic
-        direction: ASC
+    sort: []
