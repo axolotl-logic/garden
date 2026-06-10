@@ -2,7 +2,7 @@ If you are teaching students to identify members of different categories (e.g. [
 
 The intent is to draw attention to details that might otherwise be missed. The logic is that [[Interleaving (category learning)]] is said to draw attention to key similarities and differences between back-to-back categories. The idea is that these would otherwise be missed if you focused longer on a single category before moving on (i.e. [[Blocking (category learning)]].
 
-#psychology/teaching
+#psychology/learning
 
 
 [^1]: Firth, Jonathan, et al. “A Systematic Review of Interleaving as a Concept Learning Strategy.” _Revista De Educacion_, 2021, [https://doi.org/10.1002/REV3.3266](https://doi.org/10.1002/REV3.3266).

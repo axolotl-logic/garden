@@ -4,4 +4,4 @@ DynamoDB is a key-value database service provided by [[Amazon Web Services (AWS)
 
 When data modeling for DynamoDB, some considerations include single-table vs multiple-table design.
 
-#computer-science/aws #computer-science/databases
+#computer-science/aws #computer-science/backend

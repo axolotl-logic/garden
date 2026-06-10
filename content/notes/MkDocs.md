@@ -4,4 +4,4 @@ https://www.mkdocs.org/
 
 The homepage markets itself as being fast, simple, and attractive.
 
-#computer-science/static-site-generation
+#computer-science/static-site-generation 

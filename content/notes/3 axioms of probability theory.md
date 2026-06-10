@@ -7,7 +7,10 @@ Kolmogorov's axioms formalize probability theory with set theory. They serve as 
 The sample space is the set of all possible out comes.
 Notated here as $\Omega$
 
-## Event
+### Event Space
+
+A [[Sigma-algebra]] on that sample space.
+### Event
 
 Subset of $\Omega$
 Notated for example as $A$ and $B$

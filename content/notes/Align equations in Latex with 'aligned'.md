@@ -1,5 +1,10 @@
-If you want to align your equations you use `\begin{aligned}` at the beginning, `\end{aligned}` at the end, and `&=` where you want the centered $=$ to be. The content on the left of `&=` will be right aligned, and the left right will be left aligned -- centering along this symbol. To enter a newline, you provide `\\`.
-What if you want to use the tilde? As in x follows a normal distribution, i.e. $x \sim N(\mu,\sigma^2$), use `&\sim`.
+When writing out multiple equations in a row, to keep things tidy you may want to line up the equal sign. To do this in latex you use the `\begin{aligned}` command.
+
+Start the list of equations you want to align with `\begin{aligned}` and end it with `\end{aligned}`. Within the list of equations, next to the equal sign you use `&`. The lines are centered around `&`  which is invisible. In other words, the content on the left of `&` will be right aligned, and the left  will be left aligned -- centering along the symbol to its right. 
+
+For example, if you ever a series of equations, instead of an equal sign in the middle you'd have `&=` (allows space between). Say if you wanted to center around $\sim$ (`\sim`), you would write `&\sim`. 
+
+You can mix and match too. The `&` is the important part.
 
 $$
 \begin{aligned}
@@ -7,4 +12,7 @@ $$
 x & =3
 \end{aligned}
 $$
-#computer-science/typesetting
+
+But wait! Why is it all on one line? To enter a newline, you provide `\\`.
+
+#computer-science/latex

@@ -1,5 +1,5 @@
 >[!warning] Source lost
->The code here is likely from Wikipedia.
+>The code here is likely from Wikipedia. I plan to hand-rewrite them to a different language.
 
 A CRDT is a [[data structure]] with the following properties:
 
@@ -126,4 +126,4 @@ Used by collaborative real-time editors.
 
 Some known Sequence CRDTs are Treedoc, RGA, Woot, Logoot, and LSEQ.
 
-#computer-science/local-first #computer-science/theory 
+#computer-science/local-first #computer-science/backend #computer-science/theory 

@@ -9,3 +9,4 @@ To enter commands, type them into the console window that is launched when you l
 
 For more information and a complete list of commands, see [Modding:Console commands, Stardew Valley Wiki](https://stardewvalleywiki.com/Modding:Console_commands).
 
+#stardew-valley/other 

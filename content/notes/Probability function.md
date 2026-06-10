@@ -8,4 +8,4 @@ TLDR; Maps events in a [[Sigma-algebra]] to the real numbers between $0..1$.
 
 #mathematics/probability
 
-[^1]: Your morning routine can be expressed as a [[Sigma-algebra]] so long as you can imagine sleeping in and doing nothing.
+[^1]: Your morning routine can be expressed as a [[Sigma-algebra]] so long as sleeping in is part of the domain of discourse.

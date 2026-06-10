@@ -23,7 +23,6 @@ Section moved to [[9 types of behavior change interventions]]
 
 To me this appears to be a good fit for [[Journaling as a scaffold]].
 
-
 Their systematic review search query was as follows:
 
 ```sql

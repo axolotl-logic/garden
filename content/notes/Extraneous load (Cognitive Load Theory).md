@@ -2,4 +2,4 @@ In Cognitive Load Theory, extraneous load is that which does not facilitate lear
 
 It is one of the [[3 kinds of cognitive load]].
 
-#psychology/cognitive-load-theory
+#psychology/learning
