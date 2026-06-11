@@ -1,1 +1,3 @@
 If the random variable X follows a normal distribution, with mean of $\mu$ and variance of $\sigma^2$ you would write $x \sim N(\mu,\sigma^2$). The tilde is `\sim` in latex. If you want several of these all aligned on the tilde, see [[Align equations in Latex with 'aligned']].
+
+#mathematics/statistics 

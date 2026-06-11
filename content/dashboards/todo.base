@@ -4,6 +4,7 @@ filters:
 formulas:
   backlink_count: file.backlinks.length
   forward link count: file.links.length
+  Magic: ((file.size / 100) + file.backlinks.length *0.8 + file.links.length * 0.8).round(2)
 properties:
   formula.backlink_count:
     displayName: backlink count
@@ -19,8 +20,9 @@ views:
       - formula.backlink_count
       - formula.forward link count
       - file.size
+      - formula.Magic
     sort:
-      - property: file.size
+      - property: formula.Magic
         direction: ASC
     columnSize:
       file.name: 527
@@ -35,3 +37,6 @@ views:
       - file.name
       - formula.backlink_count
       - formula.forward link count
+    sort:
+      - property: formula.Magic
+        direction: ASC

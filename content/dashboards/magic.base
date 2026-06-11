@@ -1,5 +1,5 @@
 formulas:
-  Magic: ((file.size / 100) + file.backlinks.length *0.8 ).round(2)
+  Magic: ((file.size / 100) + file.backlinks.length *0.8 + file.links.length * 0.8).round(2)
 views:
   - type: table
     name: Table

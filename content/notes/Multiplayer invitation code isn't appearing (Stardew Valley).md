@@ -1,3 +1,3 @@
-You may have accidentally clicked "Load" and not "Host".
+If  the button to show the co-op code is missing, you may have accidentally clicked "Load" and not "Host" when launching the game.
 
-#stardew-valley/other
+#stardew-valley/debugging
