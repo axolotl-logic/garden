@@ -1,4 +1,4 @@
-The age old art of making up syntax on the fly. This facilitates [[cognitive offloading]]. 
+The age old art of making up syntax on the fly. This facilitates [[Cognitive offloading]]. 
 
 ```
 if stove is on_fire:
