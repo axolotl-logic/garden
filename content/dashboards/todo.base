@@ -12,7 +12,7 @@ views:
   - type: cards
     name: Issolated
     filters:
-      or:
+      and:
         - formula.backlink_count == 0
         - formula["forward link count"] == 0
     order:

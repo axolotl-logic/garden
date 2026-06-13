@@ -5,7 +5,7 @@ title: Welcome to my Cosmic Garden
 
 ## What is this?
 
-This site mirrors my personal knowledge management system[^1]. It is a garden of interconnected notes. I am its loving gardener. I tare out weeds and plant in the bare patches. 
+This site mirrors my personal knowledge management system maintained in Obsidian[^1]. It is a garden of interconnected notes. I am its loving gardener. I tare out weeds and plant in the bare patches. 
 
 However, the quality varies as, at their heart, these notes are meant to grow over time before flowering. My watchword is patience so that I may take immediate action.
 
