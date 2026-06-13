@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/axolotl-logic",
-        "Discord Community": "https://discord.gg/wHt3EcwfM",
+      "Discord Community": "https://discord.gg/wHt3EcwfM",
     },
   }),
 }
@@ -37,6 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
+    Component.FollowLink(),
     Component.Explorer({ useTags: true }),
   ],
   right: [
@@ -61,6 +62,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
+    Component.FollowLink(),
     Component.Explorer({ useTags: true }),
   ],
   right: [],
