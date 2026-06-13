@@ -12,8 +12,7 @@ const FollowChanges: QuartzComponent = ({ displayClass }: QuartzComponentProps) 
   return (
     <div class={classNames(displayClass, "follow-changes")}>
       <p>
-        This garden grows a little every day. Drop your email below and I'll let you know when
-        notable new notes take root &mdash; no noise, just changes worth following.
+        Subscribe to my newsletter and we'll learn together.
       </p>
       <div class="follow-changes-form" dangerouslySetInnerHTML={{ __html: zohoOptinForm }} />
     </div>
