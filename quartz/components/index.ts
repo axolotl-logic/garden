@@ -24,7 +24,6 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import FollowChanges from "./FollowChanges"
-import FollowLink from "./FollowLink"
 
 export {
   ArticleTitle,
@@ -53,5 +52,4 @@ export {
   Flex,
   ConditionalRender,
   FollowChanges,
-  FollowLink,
 }
