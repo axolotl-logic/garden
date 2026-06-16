@@ -1,4 +1,4 @@
-The COM-B framework^[^1] breaks a behavior change intervention into 3 components which encapsulate factors that influence behavior. These 3 are then each broken down into 2 subdivisions each.
+The [[The Behavior Change Wheel (Michie, Susan, et al 2011)| COM-B framework]] breaks a behavior change intervention into 3 components which encapsulate factors that influence behavior. These 3 are then each broken down into 2 subdivisions each.
 
 | Component   | Subdivision   | Achieved by                                              | Examples                                  |
 | ----------- | ------------- | -------------------------------------------------------- | ----------------------------------------- |
@@ -48,5 +48,3 @@ graph TD
 
 
 #psychology/behavior-change 
-
-[^1]: [[The Behavior Change Wheel (Michie, Susan, et al 2011)]]

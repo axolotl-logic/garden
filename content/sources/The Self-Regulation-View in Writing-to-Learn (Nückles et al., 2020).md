@@ -34,7 +34,7 @@ The sequence of what strategies are prompted matter. By engaging metacognitive s
 
 Students wrote better journal entries when they were showed examples and instructed to self-explain them.
 
-After 6 weeks, the prompted group diminished in usage of strategies and height of learning outcomes over the not-prompted group. A hypothesis for this is that after 6 weeks, the guidance which used to encourage [[Germane load (Cognitive Load Theory)]] now provided [[Extraneous load (Cognitive Load Theory)]]. In line with existing research, the authors conclude that prompts should be faded according to the learner's expertise in learning strategies.
+After 6 weeks, the prompted group diminished in usage of strategies and height of learning outcomes over the not-prompted group. A hypothesis for this is that after 6 weeks, the guidance which used to encourage [[germane cognitive load]] now provided [[Extraneous load (Cognitive Load Theory)]]. In line with existing research, the authors conclude that prompts should be faded according to the learner's expertise in learning strategies.
 
 Furthermore, while providing feedback to learner's with low quality journals was beneficial, it was detrimental to those with high quality ones. This is another instance of the *expertise reversal effect*
 

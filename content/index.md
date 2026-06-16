@@ -1,5 +1,5 @@
 ---
-title: Welcome to my Cosmic Garden
+title: Welcome to my Digital Garden
 ---
 # ꒰(˶• ᴗ •˶)꒱
 
