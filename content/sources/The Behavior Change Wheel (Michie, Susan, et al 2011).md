@@ -9,17 +9,10 @@ They introduce the COM-B system.
 The article presents a set of intervention categories and a set of  policy categories that can be used to influence the sources mentioned. A given policy or intervention may affect one or more of the sources that influence behavior.  
 
 Section moved to [[3 components and 6 subdivisions for behavior-change interventions]]
+
 Section moved to [[9 types of behavior change interventions]]
 
-| Policy                        |
-| ----------------------------- |
-| Communication/Marketing       |
-| Guidelines                    |
-| Fiscal                        |
-| Regulation                    |
-| Legislation                   |
-| Environmental/social planning |
-| Service Provision             |
+Section moved to [[7 policy categories for behavior change]]
 
 To me this appears to be a good fit for [[Journaling as a scaffold]].
 

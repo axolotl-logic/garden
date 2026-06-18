@@ -1,6 +1,6 @@
-The principle of making good things easy is based on the observation that a person given two options that accomplish the same thing will often choose the easier. Therefore, to avoid people choosing the destructive but easy path, you provide an easier alternative. This means you don't have to take away the other option, which may sometimes be needed. 
+The heuristic of making good things easy is based on that a person given two options that accomplish the same thing will often choose the easier. Therefore, to avoid people choosing the destructive but easy path, you provide an easier alternative. This means you don't have to take away the other option, which may sometimes be needed. 
 
-Part of this is trusting that people value making the right decision and not blaming them for not doing. Extending empathy to them, one could build an environment where doing the right thing is easy, putting aside interpersonal disagreements or conflicts of philosophy.
+Part of this is trusting that people value making the right decision and not blaming them for not doing so. Extending empathy to them, one could build an environment where doing the right thing is easy, putting aside interpersonal disagreements or conflicts of philosophy.
 
 Consider a shop setting, everyone wants to be able to find what they're looking for, but not everyone puts an item back in the right place. Sometimes this may be done out of cognitive overwhelm. In this case, you could trust that they want an organized shop, so you reduce the cognitive overwhelm by labeling its home. 
 
