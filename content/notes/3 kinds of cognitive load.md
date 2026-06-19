@@ -1,7 +1,7 @@
-In Cognitive Load Theory, cognitive processes have a cost of mental effort. This cost is called cognitive load and has been broken down into three kinds.[^1] 
+In [[Cognitive Load Theory]], cognitive processes have a cost of mental effort. This cost is called cognitive load and has been broken down into three kinds.^[^1]
 
 1. [[intrinsic cognitive load|Intrinsic load]] - Cost of holding interacting items needed for schema construction
-2. [[Extraneous load (Cognitive Load Theory)|Extraneous load]] - Cost that is unnecessary
+2. [[extraneous cognitive load|Extraneous load]] - Cost that is unnecessary
 3. [[germane cognitive load|Germane load]] - Cost of forming the schema in long-term memory
 
 #psychology/learning 

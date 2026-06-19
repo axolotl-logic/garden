@@ -13,6 +13,5 @@ _P.R.E.S. (Point of View - Reasons - Examples - Summarize) - Landmark Cases of t
 
 _PRES Method: Effective Argumentation Techniques for Communication - Studocu_. [https://www.studocu.com/en-za/document/university-of-fort-hare/legal-skills-foundation/pres-formula-notes/24450960](https://www.studocu.com/en-za/document/university-of-fort-hare/legal-skills-foundation/pres-formula-notes/24450960). Accessed 16 June 2026.
 
-
-
+#writing/hacks
 

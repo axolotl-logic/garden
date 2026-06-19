@@ -1,1 +1,3 @@
 Metacognitive offloading is the intentional handing of metacognitive processes in learning over to devices. This is similar to [[Cognitive offloading]], but about the portion of learning is thinking about thinking.  One example of [[metacognitive learning strategies]] is to have AI monitor for gaps in knowledge. This could manifest as asking AI to find gaps in the knowledge
+
+#psychology/learning 

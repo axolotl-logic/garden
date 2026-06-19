@@ -1,3 +1,3 @@
-There is a tension between being instructed with how to refine (the goals & constraints) at the same time when there is an importance to focusing and just starting/doing. Make mistakes and then learn from them. You can't learn from mistakes you don't make.
+There is a tension between being instructed with the contraints and focusing on starting/doing. Splitting this into two phases is beneficial because it overcomes the self-editing. Make mistakes in phase 1, learn them in phase 2. You can't learn from mistakes you don't make.
 
-This could be like 
+#writing/hacks
