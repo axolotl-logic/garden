@@ -6,3 +6,7 @@ public/
 .quartz-cache
 tsconfig.tsbuildinfo
 .claude
+
+# local planning notes, not published
+AI_TODO.md
+HUMAN_TODO.md

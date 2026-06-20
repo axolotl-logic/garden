@@ -1,0 +1,11 @@
+@use "../../styles/variables.scss" as *;
+
+.garden-map {
+  & .graph > h3 {
+    display: none;
+  }
+
+  & .graph > .graph-outer {
+    height: 75vh;
+  }
+}

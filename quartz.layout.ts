@@ -5,11 +5,18 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.RelatedNotes(),
+    Component.Cusdis({ appId: "80772862-2c15-4b04-b075-7ea8ec51e0db" }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/axolotl-logic",
-        "Discord Community": "https://discord.gg/wHt3EcwfM",
+      "Discord Community": "https://discord.gg/wHt3EcwfM",
+      RSS: "/index.xml",
+      "What's new": "/changelog",
+      Garden: "/garden",
+      "Garden map": "/garden-map",
     },
   }),
 }
@@ -37,12 +44,14 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
+    Component.RandomNote(),
     Component.Explorer({ useTags: true }),
   ],
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.RecentNotes({ title: "Recently tended", limit: 5 }),
   ],
 }
 

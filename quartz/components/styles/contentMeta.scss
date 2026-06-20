@@ -2,6 +2,11 @@
   margin-top: 0;
   color: var(--darkgray);
 
+  & .growth-badge {
+    font-weight: 600;
+    color: var(--secondary);
+  }
+
   &[show-comma="true"] {
     > *:not(:last-child) {
       margin-right: 8px;

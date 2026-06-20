@@ -2,6 +2,9 @@ import Content from "./pages/Content"
 import TagContent from "./pages/TagContent"
 import FolderContent from "./pages/FolderContent"
 import NotFound from "./pages/404"
+import Changelog from "./pages/Changelog"
+import GardenMaturity from "./pages/GardenMaturity"
+import GardenMap from "./pages/GardenMap"
 import ArticleTitle from "./ArticleTitle"
 import Darkmode from "./Darkmode"
 import ReaderMode from "./ReaderMode"
@@ -21,6 +24,9 @@ import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
+import Cusdis from "./Cusdis"
+import RandomNote from "./RandomNote"
+import RelatedNotes from "./RelatedNotes"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 
@@ -46,8 +52,14 @@ export {
   MobileOnly,
   RecentNotes,
   NotFound,
+  Changelog,
+  GardenMaturity,
+  GardenMap,
   Breadcrumbs,
   Comments,
+  Cusdis,
+  RandomNote,
+  RelatedNotes,
   Flex,
   ConditionalRender,
 }

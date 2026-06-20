@@ -23,11 +23,23 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
   // Merge options with defaults
   const options: ContentMetaOptions = { ...defaultOptions, ...opts }
 
+  // map a `growth` frontmatter value to a short label-only badge
+  const growthBadges: Record<string, string> = {
+    seedling: "🌱 Seedling",
+    budding: "🌿 Budding",
+    evergreen: "🌲 Evergreen",
+  }
+
   function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
     const text = fileData.text
 
     if (text) {
       const segments: (string | JSX.Element)[] = []
+
+      const growth = (fileData.frontmatter?.growth as string | undefined)?.toLowerCase()
+      if (growth && growthBadges[growth]) {
+        segments.push(<span class={`growth-badge growth-${growth}`}>{growthBadges[growth]}</span>)
+      }
 
       if (fileData.dates) {
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
