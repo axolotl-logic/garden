@@ -7,7 +7,7 @@ import { defaultProcessedContent } from "../vfile"
 import { FullPageLayout } from "../../cfg"
 import { FullSlug, pathToRoot } from "../../util/path"
 import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
-import { Changelog, GardenMaturity, GardenMap } from "../../components"
+import { Changelog, GardenMaturity, GardenMap, RecentNotes } from "../../components"
 import { write } from "./helpers"
 import { BuildCtx } from "../../util/ctx"
 import { StaticResources } from "../../util/resources"
@@ -15,6 +15,15 @@ import { QuartzComponent } from "../../components/types"
 
 // synthetic index pages generated without any content/ files
 const pages: { slug: FullSlug; title: string; pageBody: QuartzComponent }[] = [
+  {
+    slug: "recently-tended" as FullSlug,
+    title: "Recently tended",
+    pageBody: RecentNotes({
+      title: "",
+      limit: 50,
+      filter: (f) => f.slug !== "index" && !f.slug!.startsWith("tags/"),
+    }),
+  },
   { slug: "changelog" as FullSlug, title: "What's new", pageBody: Changelog() },
   { slug: "garden" as FullSlug, title: "Garden", pageBody: GardenMaturity() },
   { slug: "garden-map" as FullSlug, title: "Garden map", pageBody: GardenMap() },

@@ -14,6 +14,7 @@ export const sharedPageComponents: SharedLayout = {
       GitHub: "https://github.com/axolotl-logic",
       "Discord Community": "https://discord.gg/wHt3EcwfM",
       RSS: "/index.xml",
+      "Recently tended": "/recently-tended",
       "What's new": "/changelog",
       Garden: "/garden",
       "Garden map": "/garden-map",
@@ -51,7 +52,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    Component.RecentNotes({ title: "Recently tended", limit: 5 }),
   ],
 }
 
