@@ -1,8 +1,8 @@
-In the context of mind-wandering Seli, Paul, et al (2017) studied whether the dimensions of awareness and intentionality are redundant.[^1] In other words, when studying mind-wandering, the question is whether measures of intentionality and measures of awareness align. Specifically, whether meta-aware corresponds to intentional and unaware corresponds to unintentional. 
-
-Coupling intentionality and awareness in this manner results in two logical implications. First, that there does not exist an aware, but unintentional mind-wandering. And conversely, that there is not an unaware, but intentional mind-wandering. 
+Intentionality is a dimension of mind-wandering  historically discussed by researches at length. Another dimension, one of awareness, has also been proposed. Seli, Paul, et al (2017)^[^1] studied whether these two dimensions were redundant. In other words, they asked whether measures of intentionality and measures of awareness would consistently align. Specifically, whether meta-aware corresponds to intentional and unaware corresponds to unintentional mind-wandering. 
 
 They ultimately found that intentionality and awareness were distinct. 
+
+Coupling intentionality and awareness in that manner would have resulted in two logical implications. First, that there does not exist an aware, but unintentional mind-wandering. And conversely, that there is not an unaware, but intentional mind-wandering. 
 
 #psychology/mind-wandering
 

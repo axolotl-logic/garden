@@ -3,6 +3,6 @@ I am currently building an asset "store" for Stardew Valley mods. All assets wil
 ![[Screenshot 2026-06-08 at 13-43-00 Stardew Assets.png]]
 
 ![[Screenshot 2026-06-08 at 13-43-19 Stardew Assets.png]]
-Not currently publicly available. I want to reach out to FlashShifter to get permission
+Not currently publicly available. I want to reach out to FlashShifter to get permission.
 
 #stardew-valley/modding 

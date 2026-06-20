@@ -12,5 +12,5 @@ Entertaining the possibility that mind-wandering can be beneficial, one might im
 
 [^2]: Breton, A. (1969). Manifestes of Surrealism (R. Seaver & H. Lane, Trans.). University of Michigan Press. [https://doi.org/10.3998/mpub.7558](https://doi.org/10.3998/mpub.7558).
 [^3]:  Seli, Paul, et al. “Intentionality and Meta-Awareness of Mind Wandering: Are They One and the Same, or Distinct Dimensions?” _Psychonomic Bulletin & Review_, 2017, [https://doi.org/10.3758/S13423-017-1249-0](https://doi.org/10.3758/S13423-017-1249-0).
-[^4]: Arango‐Muñoz, Santiago, and Juan Pablo Bermúdez. “[[Arango‐Muñoz+Bermúdez2020|Intentional Mind-Wandering as Intentional Omission: The Surrealist Method.]]” _Synthese_, 2021, [https://doi.org/10.1007/S11229-021-03135-2](https://doi.org/10.1007/S11229-021-03135-2).
+[^4]: Arango‐Muñoz, Santiago, and Juan Pablo Bermúdez. “Intentional Mind-Wandering as Intentional Omission: The Surrealist Method.” _Synthese_, 2021, [https://doi.org/10.1007/S11229-021-03135-2](https://doi.org/10.1007/S11229-021-03135-2).
 [^5]: citation needed: mind-wandering as self regulation

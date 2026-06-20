@@ -1,0 +1,3 @@
+The spacing effect is the observation that spacing out study has a benefit to learning outcomes.
+
+#psychology/learning 

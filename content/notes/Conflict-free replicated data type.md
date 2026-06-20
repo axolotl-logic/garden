@@ -2,7 +2,7 @@ A CRDT is a data structure with the following properties:
 
 1. Individual replicas can update without coordination, even if other updates are happening concurrently. 
 2. Contains an algorithm (yes, part of the data type) that automatically resolves inconsistencies.
-3. All replicas are guaranteed to eventually converge. This is called [[Strong eventual consistency]]
+3. All replicas are guaranteed to eventually converge and also those with the same updates have the same value. This is called [[strong eventual consistency]].
 
 They are useful for Local-First architectures.
 ## Types

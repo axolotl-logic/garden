@@ -4,7 +4,7 @@
 >[!info] Source Note - notes on source
 > Kristin Jones and Sherid Carter running Live DBT Skills Class, week 4 of the interpersonal module on 2026-05-29
 
-Of objectives, relationship, and self-respect effectives, one should decide which is most important, though consider all of them. The point is that we should identify the primary goal so you can choose the right skill.
+Of objectives, relationship, and self-respect defectiveness, one should decide which is most important, though consider all of them. The point is that we should identify the primary goal so you can choose the right skill.
 
 > 1. How do I want to feel about myself after?
 
