@@ -249,11 +249,18 @@ article .tag-pill {
       margin: 0 auto;
     }
 
+    & > header {
+      grid-area: grid-nav;
+      margin: 0;
+      padding: 1.5rem 2rem 0 2rem;
+      box-sizing: border-box;
+    }
+
     & .sidebar {
       gap: 1.2rem;
       top: 0;
       box-sizing: border-box;
-      padding: $topSpacing 2rem 2rem 2rem;
+      padding: 2rem 2rem 2rem 2rem;
       display: flex;
       height: 100vh;
       position: sticky;
@@ -305,7 +312,7 @@ article .tag-pill {
 
     & .page-header {
       grid-area: grid-header;
-      margin: $topSpacing 0 0 0;
+      margin: 2rem 0 0 0;
       @media all and ($mobile) {
         margin-top: 0;
         padding: 0;
