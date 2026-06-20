@@ -90,6 +90,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       Plugin.GardenPages(),
+      Plugin.FollowPage(),
       // CustomOgImages generates a banner screenshot per page. We instead use the
       // page's own first image (or the logo fallback) via Head.tsx, so it stays off.
       // Plugin.CustomOgImages(),

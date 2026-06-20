@@ -30,6 +30,7 @@ import RandomNote from "./RandomNote"
 import RelatedNotes from "./RelatedNotes"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
+import FollowChanges from "./FollowChanges"
 
 export {
   ArticleTitle,
@@ -64,4 +65,5 @@ export {
   RelatedNotes,
   Flex,
   ConditionalRender,
+  FollowChanges,
 }

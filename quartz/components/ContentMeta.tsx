@@ -1,4 +1,4 @@
-import { Date, getDate } from "./Date"
+import { Date } from "./Date"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
 import { classNames } from "../util/lang"
@@ -42,7 +42,23 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       }
 
       if (fileData.dates) {
-        segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+        const createdDate = fileData.dates.created
+        if (createdDate) {
+          segments.push(
+            <span>
+              Created at <Date date={createdDate} locale={cfg.locale} />
+            </span>,
+          )
+        }
+
+        const updatedDate = fileData.dates.modified
+        if (updatedDate) {
+          segments.push(
+            <span>
+              Last updated <Date date={updatedDate} locale={cfg.locale} />
+            </span>,
+          )
+        }
       }
 
       // Display reading time if enabled

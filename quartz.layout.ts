@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
       links: {
         "Garden map": "/garden-map",
         "Discord Community": "https://discord.gg/wHt3EcwfM",
+        "Follow Changes": "/follow",
       },
     }),
   ],
@@ -54,7 +55,11 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.ArticleTitle(), Component.Breadcrumbs(), Component.ContentMeta({ showReadingTime: false })],
+  beforeBody: [
+    Component.ArticleTitle(),
+    Component.Breadcrumbs(),
+    Component.ContentMeta({ showReadingTime: false }),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
