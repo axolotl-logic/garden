@@ -1,3 +1,7 @@
+---
+created_at: 2026-06-12T13:32:46-04:00
+modified_at: 2026-06-20T12:15:10-04:00
+---
 >[!warning] Head cannon
 
 As opposed to mathematical chess problems which frame mathematical problems as chess, I want to represent chess as math. The motivation is to create a foundation from which novel elements of strategy can be derived in advance or chosen during a game. If the system is alien than the results may be novel.

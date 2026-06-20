@@ -1,3 +1,7 @@
+---
+created_at: 2026-05-20T13:13:26-04:00
+modified_at: 2026-06-16T19:00:13-04:00
+---
 A CRDT is a data structure with the following properties:
 
 1. Individual replicas can update without coordination, even if other updates are happening concurrently. 

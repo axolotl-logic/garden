@@ -1,3 +1,7 @@
+---
+created_at: 2026-05-30T17:52:46-04:00
+modified_at: 2026-06-20T12:15:10-04:00
+---
 In [[Cognitive Load Theory]], cognitive processes have a cost of mental effort. This cost is called cognitive load and has been broken down into three kinds.^[^1]
 
 1. [[intrinsic cognitive load|Intrinsic load]] - Cost of holding interacting items needed for schema construction

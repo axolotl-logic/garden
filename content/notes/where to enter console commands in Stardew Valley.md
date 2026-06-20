@@ -1,3 +1,7 @@
+---
+created_at: 2026-06-07T08:58:00-04:00
+modified_at: 2026-06-10T15:05:15-04:00
+---
 To enter commands, type them into the console window that is launched when you launch Stardew. When you launch Stardew with SMAPI, SMAPI runs in a console window. You'll see it with the log output. Type commands directly in there, then hit enter.
 
 >[!tip] Run the `help` command to see all commands

@@ -1,3 +1,7 @@
+---
+created_at: 2026-05-20T13:13:26-04:00
+modified_at: 2026-06-20T12:15:10-04:00
+---
 A statistical model is "a formal representation of a theory" (Herman Adèr quoting Kenneth Bollen) usually represented as the relationships among both [[random variable|random variables]] and non-random variables.
 
 Unlike other mathematical models, a statistical model is non-deterministic, having probability distributions instead of (exclusively) specific values.

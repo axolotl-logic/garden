@@ -1,3 +1,7 @@
+---
+created_at: 2026-05-26T09:26:09-04:00
+modified_at: 2026-06-20T12:15:10-04:00
+---
 >[!info] These are notes on...
 >Nückles, Matthias, et al. “The Self-Regulation-View in Writing-to-Learn: Using Journal Writing to Optimize Cognitive Load in Self-Regulated Learning.” _Educational Psychology Review_, 2020, [https://doi.org/10.1007/S10648-020-09541-1](https://doi.org/10.1007/S10648-020-09541-1).
 

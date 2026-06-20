@@ -1,6 +1,6 @@
 ---
-created_at: 2026-06-20T11:18:17-04:00
-modified_at: 2026-06-20T11:18:17-04:00
+created_at: 2026-06-20T12:15:10-04:00
+modified_at: 2026-06-20T12:15:10-04:00
 ---
 No prose visible to visitors were computer generated unless accompanied by a clear disclosure. While I love experimenting with AI in many other use cases,  I am skeptical of it for learning and deplore the idea of use it to write. 
 

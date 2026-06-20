@@ -1,3 +1,7 @@
+---
+created_at: 2026-05-16T14:36:57-04:00
+modified_at: 2026-06-20T12:15:10-04:00
+---
 
 > [!info] These are notes on...
 > Michie, Susan, et al. “The Behaviour Change Wheel: A New Method for Characterising and Designing Behaviour Change Interventions.” _Implementation Science_, vol. 6, no. 1, Dec. 2011, p. 42. _DOI.org (Crossref)_, [https://doi.org/10.1186/1748-5908-6-42](https://doi.org/10.1186/1748-5908-6-42).

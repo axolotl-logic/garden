@@ -1,3 +1,7 @@
+---
+created_at: 2026-05-20T13:13:26-04:00
+modified_at: 2026-06-10T15:05:15-04:00
+---
 When writing out multiple equations in a row, to keep things tidy you may want to line up the equal sign. To do this in latex you use the `\begin{aligned}` command.
 
 Start the list of equations you want to align with `\begin{aligned}` and end it with `\end{aligned}`. Within the list of equations, next to the equal sign you use `&`. The lines are centered around `&`  which is invisible. In other words, the content on the left of `&` will be right aligned, and the left  will be left aligned -- centering along the symbol to its right. 

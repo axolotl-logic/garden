@@ -1,3 +1,7 @@
+---
+created_at: 2026-06-18T18:18:17-04:00
+modified_at: 2026-06-20T12:15:10-04:00
+---
 The PRES method is a formula for structuring agreement or disagreement. It has been celebrated for its use in both impromptu oration and also the written word such as in the writing of mini-essays.
 
 The formula is as follows:

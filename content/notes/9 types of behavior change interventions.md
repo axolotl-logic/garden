@@ -1,3 +1,7 @@
+---
+created_at: 2026-06-02T09:27:52-04:00
+modified_at: 2026-06-02T09:27:52-04:00
+---
 From [[The Behavior Change Wheel (Michie, Susan, et al 2011)]] we have 9 interventions to facilitate the change of a behavior.
 
 | Intervention                | Example                                                             |

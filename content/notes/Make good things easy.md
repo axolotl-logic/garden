@@ -1,3 +1,7 @@
+---
+created_at: 2026-06-12T13:32:46-04:00
+modified_at: 2026-06-20T12:15:10-04:00
+---
 The heuristic of making good things easy is based on that a person given two options that accomplish the same thing will often choose the easier. Therefore, to avoid people choosing the destructive but easy path, you provide an easier alternative. This means you don't have to take away the other option, which may sometimes be needed. 
 
 Part of this is trusting that people value making the right decision and not blaming them for not doing so. Extending empathy to them, one could build an environment where doing the right thing is easy, putting aside interpersonal disagreements or conflicts of philosophy.

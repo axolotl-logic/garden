@@ -1,3 +1,7 @@
+---
+created_at: 2026-05-14T08:56:35-04:00
+modified_at: 2026-06-20T12:15:10-04:00
+---
 Intentionality is a dimension of mind-wandering  historically discussed by researches at length. Another dimension, one of awareness, has also been proposed. Seli, Paul, et al (2017)^[^1] studied whether these two dimensions were redundant. In other words, they asked whether measures of intentionality and measures of awareness would consistently align. Specifically, whether meta-aware corresponds to intentional and unaware corresponds to unintentional mind-wandering. 
 
 They ultimately found that intentionality and awareness were distinct. 

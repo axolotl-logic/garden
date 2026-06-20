@@ -1,3 +1,7 @@
+---
+created_at: 2026-05-14T08:56:35-04:00
+modified_at: 2026-05-30T17:52:46-04:00
+---
 Research suggests that interleaving has an equivalent or greater benefit over blocking during rule-based learning, especially with subtle pattern learning.[^1]
 
 #psychology/learning 

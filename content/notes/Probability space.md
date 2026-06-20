@@ -1,3 +1,7 @@
+---
+created_at: 2026-05-20T13:13:26-04:00
+modified_at: 2026-06-20T12:15:10-04:00
+---
 An ordered triple of $(\Omega,\mathcal{F},P)$
 
 $\Omega$ - sample space (set of outcomes)

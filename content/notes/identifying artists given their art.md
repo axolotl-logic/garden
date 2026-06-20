@@ -1,3 +1,7 @@
+---
+created_at: 2026-05-14T08:56:35-04:00
+modified_at: 2026-06-10T15:05:15-04:00
+---
 The art task is commonly used in experiments to better understand the interleaving of concept learning (also called category learning). It consists of identifying the modern artist who created a given piece of art. It was originally devised by Kornell and Bjork.
 
 A variation of this task studies identifying art eras. As opposed to identifying art styles which are shown to be better [[interleaving of lengthy tasks is unsupported|interleaved]], identifying eras of art is shown to be [[Blocking doubles, interleaving splits|better when blocked]].

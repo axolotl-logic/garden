@@ -1,3 +1,7 @@
+---
+created_at: 2026-06-20T12:15:10-04:00
+modified_at: 2026-06-20T12:15:10-04:00
+---
 Design requirements:
 
 * Adding a new note should not decrease the total value.

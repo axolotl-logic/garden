@@ -1,3 +1,7 @@
+---
+created_at: 2026-05-14T08:56:35-04:00
+modified_at: 2026-06-10T15:05:15-04:00
+---
 [[Interleaving (category learning)|Interleaving]] of lengthy tasks is not supported by evidence.[^1] For example, alternating entire lessons of the same concept is not shown to have comparable effects.
 
 #psychology/learning
