@@ -7,8 +7,8 @@ export const sharedPageComponents: SharedLayout = {
   header: [
     Component.Nav({
       links: {
-        "Discord Community": "https://discord.gg/wHt3EcwfM",
         "Garden map": "/garden-map",
+        "Discord Community": "https://discord.gg/wHt3EcwfM",
       },
     }),
   ],
