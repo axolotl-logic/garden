@@ -1,6 +1,7 @@
 ---
 created_at: 2026-05-20T13:13:26-04:00
 modified_at: 2026-06-10T15:05:15-04:00
+tags: ["mathematics/measure-theory"]
 ---
 A $\sigma$-algebra on a set $X$ is a non empty collection $\Sigma$ with the following properties
 
@@ -13,5 +14,3 @@ From this follows
 * Countable intersections
 
 $(X,\Sigma)$ is called a measurable space.
-
-#mathematics/measure-theory

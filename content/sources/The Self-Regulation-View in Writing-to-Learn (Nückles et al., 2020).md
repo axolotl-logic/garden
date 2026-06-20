@@ -1,7 +1,7 @@
 ---
-created_at: 2026-05-26T09:26:09-04:00
-modified_at: 2026-06-20T12:15:10-04:00
+tags: ["source-note"]
 ---
+
 >[!info] These are notes on...
 >Nückles, Matthias, et al. “The Self-Regulation-View in Writing-to-Learn: Using Journal Writing to Optimize Cognitive Load in Self-Regulated Learning.” _Educational Psychology Review_, 2020, [https://doi.org/10.1007/S10648-020-09541-1](https://doi.org/10.1007/S10648-020-09541-1).
 
@@ -49,5 +49,3 @@ In addition, journal writing itself may incur a motivational cost.
 To investigate ways to improve motivations, existing research prompted learners about why the learning material is relevant to them personally. This was found to increase content-related motivation and acceptance of the task. This referred in the paper as a "personal utility prompt". 
 
 Researchers found that students whose goal was structured  to be mastery outperformed those who whose goal was to be better than their classmates. Thus, encouraging mastery over performance benefits learning.
-
-#source-note 

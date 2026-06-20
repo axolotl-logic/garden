@@ -1,7 +1,7 @@
 ---
-created_at: 2026-05-26T09:26:09-04:00
-modified_at: 2026-06-10T15:05:15-04:00
+tags: ["source-note"]
 ---
+
 >[!warning] Source behind paywall
 
 >[!info] Source Note - notes on source
@@ -47,5 +47,3 @@ Validation is acknowledgement.
 Validate, *iff* valid/true. Some things a person might validate include feelings, emotions, beliefs, opinions, suffering, difficulties, and facts.
 
 Give body language that you're hearing the other person.
-
-#source-note 

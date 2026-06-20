@@ -1,6 +1,7 @@
 ---
 created_at: 2026-06-02T09:27:52-04:00
 modified_at: 2026-06-20T12:15:10-04:00
+tags: ["psychology/behavior-change"]
 ---
 The [[The Behavior Change Wheel (Michie, Susan, et al 2011)| COM-B framework]] breaks a behavior change intervention into 3 components which encapsulate factors that influence behavior. These 3 are then each broken down into 2 subdivisions each.
 
@@ -49,6 +50,3 @@ graph TD
 	class J mostImportant;
 	class A,C,D,F,G,I sources;
 ```
-
-
-#psychology/behavior-change 

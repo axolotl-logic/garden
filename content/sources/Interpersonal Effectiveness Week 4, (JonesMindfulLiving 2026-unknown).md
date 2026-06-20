@@ -1,7 +1,7 @@
 ---
-created_at: 2026-05-29T15:05:05-04:00
-modified_at: 2026-06-20T12:15:10-04:00
+tags: ["source-note"]
 ---
+
 >[!warning] Source behind paywall :-(
 
 
@@ -49,5 +49,3 @@ Don't dwell. Don't apologize in a way that hurts your self respect over time. Ex
 > (No) apologies
 > Stick to Values
 > Be Truthful
-
-#source-note 

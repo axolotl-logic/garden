@@ -1,6 +1,7 @@
 ---
 created_at: 2026-06-12T13:32:46-04:00
 modified_at: 2026-06-20T12:15:10-04:00
+tags: ["mathematics/chess"]
 ---
 >[!warning] Head cannon
 
@@ -17,6 +18,3 @@ One approach is to define chess as a set of structures and axioms and then to re
 Alternatively, an element of strategy or snippet of wisdom could be the goal. This might have applicability during a game. In this case, the strategy does not need to be novel to be satisfying as the application of it would be.
 
 There is benefit in blurred eyes and [[useful lie|useful lies]]. Acknowledging the difficulty of translating all of chess, one is liberated to simplify the game. Some examples where blurring our eyes may make the problem easier might include pretending the chess board is infinite or that there are only pieces and no board at all. 
-
-
-#mathematics/chess

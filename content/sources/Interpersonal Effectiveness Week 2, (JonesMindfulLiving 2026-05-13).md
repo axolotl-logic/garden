@@ -1,7 +1,7 @@
 ---
-created_at: 2026-05-19T10:14:42-04:00
-modified_at: 2026-06-02T09:27:52-04:00
+tags: ["source-note"]
 ---
+
 >[!warning] Source behind paywall
 >
 
@@ -69,5 +69,3 @@ For asking or saying no.
 **A**ppear Confident - confident without being aggressive
 
 **N**egotiate - Give to get
-
-#source-note

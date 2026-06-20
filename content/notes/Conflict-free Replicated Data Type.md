@@ -1,6 +1,7 @@
 ---
 created_at: 2026-05-20T13:13:26-04:00
 modified_at: 2026-06-16T19:00:13-04:00
+tags: ["computer-science/local-first", "computer-science/backend", "computer-science/theory"]
 ---
 A CRDT is a data structure with the following properties:
 
@@ -26,5 +27,3 @@ And three functions:
 Replicas exchange entirety of state
 
 3 functions: initialization of state,  updating of states through actions, and merge. 
-
-#computer-science/local-first #computer-science/backend #computer-science/theory 

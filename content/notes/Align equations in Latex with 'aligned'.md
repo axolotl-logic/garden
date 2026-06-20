@@ -1,6 +1,7 @@
 ---
 created_at: 2026-05-20T13:13:26-04:00
 modified_at: 2026-06-10T15:05:15-04:00
+tags: ["computer-science/latex"]
 ---
 When writing out multiple equations in a row, to keep things tidy you may want to line up the equal sign. To do this in latex you use the `\begin{aligned}` command.
 
@@ -18,5 +19,3 @@ x & =3
 $$
 
 But wait! Why is it all on one line? To enter a newline, you provide `\\`.
-
-#computer-science/latex

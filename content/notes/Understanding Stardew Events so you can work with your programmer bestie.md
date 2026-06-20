@@ -1,6 +1,7 @@
 ---
 created_at: 2026-06-04T10:20:00-04:00
 modified_at: 2026-06-10T15:05:15-04:00
+tags: ["stardew-valley/modding"]
 ---
 
 An event can be conceptualized as all of a *location*, set of *preconditions*, and a series of *commands* called the event script. This covers the what, where, and when of things happening in an event. Let's look at each of these in-turn so it's less confusing.
@@ -37,5 +38,3 @@ After those commands, you can execute a wide variety of others. If you've seen i
 Try writing the scene out like it's a script to a movie or play. Worry about locations later and focus on dialogue. Then, after having that structure, add stage directions. First the bones, then the flesh, then the skin. Good luck!
 
 [^1]: Use the Debug Mod to find the location.
-
-#stardew-valley/modding

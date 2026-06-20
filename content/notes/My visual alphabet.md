@@ -1,6 +1,7 @@
 ---
 created_at: 2026-06-16T19:00:13-04:00
 modified_at: 2026-06-20T12:15:10-04:00
+tags: ["journal/memory"]
 ---
 >[!info] Memory Journal Entry
 > This is an entry in my memory journal. It is primarily for my own purposes.
@@ -74,7 +75,7 @@ An alligator who was struck by lightning waits at the door. The door blasts open
 | Service Provision             | Unicorn | prostitution      |
 | Regulation                    | Velma   | regulator (SCUBA) |
 
-[[4 steps to structure agreement or disagreement]]
+[[4 steps to state and support a point]]
 
 | Knowledge               | Peg    | Mnemonic            |
 | ----------------------- | ------ | ------------------- |
@@ -82,5 +83,3 @@ An alligator who was struck by lightning waits at the door. The door blasts open
 | Give a single reason    | Xena   | single giant raisin |
 | Clarify with an example | Yak    | clarified butter    |
 | Summarize               | Zues   | throwing sigma      |
-
-#journal/memory

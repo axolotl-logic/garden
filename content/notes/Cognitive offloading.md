@@ -1,6 +1,7 @@
 ---
 created_at: 2026-06-02T18:10:51-04:00
 modified_at: 2026-06-12T13:32:46-04:00
+tags: ["psychology/learning"]
 ---
 Cognitive offloading is the intentional reduction of cognitive demand through physical action. If you setup calendar reminders or tilt your head to see a sideways image, you're engaging in cognitive offloading. These are intentional actions that reduce how much information you have to process.
 
@@ -12,6 +13,5 @@ The benefits are self-evident, but it has potential costs. If you lose your memo
 
 
 
-#psychology/learning 
 
 [^1]: Richmond, L.L., Taylor, R.G. The benefits and potential costs of cognitive offloading for retrospective information. _Nat Rev Psychol_ **4**, 312–321 (2025). https://doi.org/10.1038/s44159-025-00432-2

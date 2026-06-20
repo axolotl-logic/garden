@@ -1,6 +1,7 @@
 ---
 created_at: 2026-05-20T13:13:26-04:00
 modified_at: 2026-06-20T12:15:10-04:00
+tags: ["mathematics/probability"]
 ---
 A probability measure answers the question of how probable an event is. You can think of it as one way of measuring an event. This measurement is a number from 0 to 1,  where 0 the event wont happen and 1 it will.
 
@@ -10,6 +11,5 @@ Probability functions are a basic building block of probability theory. In fact,
 
 TLDR; Maps events in a [[Sigma-algebra]] to the real numbers between $0..1$.
 
-#mathematics/probability
 
 [^1]: Your morning routine can be expressed as a [[Sigma-algebra]] so long as sleeping in is part of the domain of discourse.
