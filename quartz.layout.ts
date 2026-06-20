@@ -7,12 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [
     Component.Nav({
       links: {
-        GitHub: "https://github.com/axolotl-logic",
         "Discord Community": "https://discord.gg/wHt3EcwfM",
-        RSS: "/index.xml",
-        "Recently tended": "/recently-tended",
-        "What's new": "/changelog",
-        Garden: "/garden",
         "Garden map": "/garden-map",
       },
     }),
