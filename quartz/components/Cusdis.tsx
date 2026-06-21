@@ -10,14 +10,6 @@ type Options = {
 
 export default ((opts: Options) => {
   const Cusdis: QuartzComponent = ({ displayClass, fileData, cfg }: QuartzComponentProps) => {
-    // Allow opting a page out of comments via `comments: false` frontmatter.
-    const disableComment: boolean =
-      typeof fileData.frontmatter?.comments !== "undefined" &&
-      (!fileData.frontmatter?.comments || fileData.frontmatter?.comments === "false")
-    if (disableComment) {
-      return <></>
-    }
-
     const host = opts.host ?? "https://cusdis.com"
     const slug = fileData.slug!
     const pageUrl = `https://${cfg.baseUrl ?? "example.com"}/${slug}`

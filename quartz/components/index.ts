@@ -24,7 +24,6 @@ import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
-import Comments from "./Comments"
 import Cusdis from "./Cusdis"
 import RandomNote from "./RandomNote"
 import RelatedNotes from "./RelatedNotes"
@@ -59,7 +58,6 @@ export {
   GardenMaturity,
   GardenMap,
   Breadcrumbs,
-  Comments,
   Cusdis,
   RandomNote,
   RelatedNotes,

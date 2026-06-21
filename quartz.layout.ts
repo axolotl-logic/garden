@@ -15,7 +15,6 @@ export const sharedPageComponents: SharedLayout = {
   ],
   afterBody: [
     Component.Cusdis({ appId: "80772862-2c15-4b04-b075-7ea8ec51e0db" }),
-    Component.RelatedNotes(),
   ],
   footer: Component.Footer({ links: {} }),
 }
@@ -48,8 +47,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.RelatedNotes(),
   ],
 }
 
