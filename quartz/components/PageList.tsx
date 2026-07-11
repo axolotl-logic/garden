@@ -6,6 +6,13 @@ import { GlobalConfiguration } from "../cfg"
 
 export type SortFn = (f1: QuartzPluginData, f2: QuartzPluginData) => number
 
+// growth stage -> emoji, matching the buckets in GardenMaturity
+const growthEmoji: Record<string, string> = {
+  seedling: "🌱",
+  budding: "🌿",
+  evergreen: "🌲",
+}
+
 export function byDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {
   return (f1, f2) => {
     // Sort by date/alphabetical
@@ -23,6 +30,18 @@ export function byDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {
     const f1Title = f1.frontmatter?.title.toLowerCase() ?? ""
     const f2Title = f2.frontmatter?.title.toLowerCase() ?? ""
     return f1Title.localeCompare(f2Title)
+  }
+}
+
+export function byOutgoingLinks(cfg: GlobalConfiguration): SortFn {
+  const outgoingCount = (f: QuartzPluginData) => f.links?.length ?? 0
+  return (f1, f2) => {
+    const c1 = outgoingCount(f1)
+    const c2 = outgoingCount(f2)
+    // sort descending by number of outgoing links
+    if (c1 !== c2) return c2 - c1
+    // fall back to date/alphabetical for ties
+    return byDateAndAlphabetical(cfg)(f1, f2)
   }
 }
 
@@ -72,6 +91,8 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     <ul class="section-ul">
       {list.map((page) => {
         const title = page.frontmatter?.title
+        const growth = (page.frontmatter?.growth as string | undefined)?.toLowerCase()
+        const emoji = growth ? growthEmoji[growth] : undefined
         const allTags = page.frontmatter?.tags ?? []
         const tags = currentTag
           ? allTags.filter((t) => t !== currentTag && !currentTag.startsWith(t + "/"))
@@ -81,6 +102,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
           <li class="section-li">
             <div class="section">
               <p class="meta">
+                {emoji && <span class="growth-emoji">{emoji} </span>}
                 {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
               </p>
               <div class="desc">

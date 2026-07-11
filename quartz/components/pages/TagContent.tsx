@@ -1,6 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 import style from "../styles/listPage.scss"
-import { PageList, SortFn } from "../PageList"
+import { PageList, SortFn, byOutgoingLinks } from "../PageList"
 import { FullSlug, getAllSegmentPrefixes, resolveRelative, simplifySlug } from "../../util/path"
 import { QuartzPluginData } from "../../plugins/vfile"
 import { Root } from "hast"
@@ -29,6 +29,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
       throw new Error(`Component "TagContent" tried to render a non-tag page: ${slug}`)
     }
 
+    const sort = options?.sort ?? byOutgoingLinks(cfg)
     const tag = simplifySlug(slug.slice("tags/".length) as FullSlug)
     const allPagesWithTag = (tag: string) =>
       allFiles.filter((file) =>
@@ -99,7 +100,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
                         </>
                       )}
                     </p>
-                    <PageList limit={options.numPages} {...listProps} sort={options?.sort} />
+                    <PageList limit={options.numPages} {...listProps} sort={sort} />
                   </div>
                 </div>
               )
@@ -120,7 +121,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
           <div class="page-listing">
             <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
             <div>
-              <PageList {...listProps} sort={options?.sort} />
+              <PageList {...listProps} sort={sort} />
             </div>
           </div>
         </div>

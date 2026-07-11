@@ -1,5 +1,5 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
-import { PageList, byDateAndAlphabetical } from "../PageList"
+import { PageList, byOutgoingLinks } from "../PageList"
 import style from "../styles/listPage.scss"
 import { concatenateResources } from "../../util/resources"
 
@@ -26,7 +26,7 @@ export default (() => {
           return (
             <div class="page-listing">
               <h2>{label}</h2>
-              <PageList sort={byDateAndAlphabetical(cfg)} {...listProps} />
+              <PageList sort={byOutgoingLinks(cfg)} {...listProps} />
             </div>
           )
         })}
