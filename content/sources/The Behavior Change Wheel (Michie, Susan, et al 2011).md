@@ -1,7 +1,11 @@
 ---
-tags: ["psychology/behavior-change", "source-note"]
+tags:
+- psychology/behavior-change
+- source-note
+global_pagerank: 0.03732602959595564
+cluster_pagerank: 0.135090676311349
+cluster_id: bf41d5db23befec8b07ca5b922455ad6
 ---
-
 
 > [!info] These are notes on...
 > Michie, Susan, et al. “The Behaviour Change Wheel: A New Method for Characterising and Designing Behaviour Change Interventions.” _Implementation Science_, vol. 6, no. 1, Dec. 2011, p. 42. _DOI.org (Crossref)_, [https://doi.org/10.1186/1748-5908-6-42](https://doi.org/10.1186/1748-5908-6-42).

@@ -1,8 +1,14 @@
 ---
 created_at: 2026-06-07T08:58:00-04:00
 modified_at: 2026-06-20T12:15:10-04:00
-tags: ["stardew-valley/modding"]
+growth: budding
+tags:
+- stardew-valley/modding
+global_pagerank: 0.004277457377825095
+cluster_pagerank: 0.25974050510584634
+cluster_id: 3367ad33c896258783d56e4e087810c8
 ---
+
 >[!important] Heart conversion
 > 1 heart = 250
 

@@ -1,8 +1,15 @@
 ---
 created_at: 2026-05-14T08:56:35-04:00
 modified_at: 2026-05-31T13:24:35-04:00
-tags: ["business/product-ideas", "psychology/journaling"]
+growth: budding
+tags:
+- business/product-ideas
+- psychology/journaling
+global_pagerank: 0.014256880184850516
+cluster_pagerank: 0.05161715502603222
+cluster_id: bf41d5db23befec8b07ca5b922455ad6
 ---
+
 Nückles, Matthias, et al (2020) explored journal writing activities through the lens of self-regulated learning, reasoning and optimizing within that framework. They connected journal writing to cognitive load optimization and also framed it as a self-regulated learning event. They refer to this as the "self-regulation-view of writing-to-learn".[^1]
 
 From this perspective, journal writing can be seen as a supporting system that is meant to activate strategies. The outcome of such a journal writing system should be measured by whether or not the goals of the system it supports are achieved. 

@@ -1,8 +1,14 @@
 ---
 created_at: 2026-06-12T13:32:46-04:00
 modified_at: 2026-06-20T12:15:10-04:00
-tags: ["mathematics/chess"]
+growth: budding
+tags:
+- mathematics/chess
+global_pagerank: 0.004277457377825095
+cluster_pagerank: 0.015219153380954599
+cluster_id: 0775638e811bfa1da8216536fc6430a0
 ---
+
 >[!warning] Head cannon
 
 As opposed to mathematical chess problems which frame mathematical problems as chess, I want to represent chess as math. The motivation is to create a foundation from which novel elements of strategy can be derived in advance or chosen during a game. If the system is alien than the results may be novel.
@@ -17,4 +23,4 @@ One approach is to define chess as a set of structures and axioms and then to re
 
 Alternatively, an element of strategy or snippet of wisdom could be the goal. This might have applicability during a game. In this case, the strategy does not need to be novel to be satisfying as the application of it would be.
 
-There is benefit in blurred eyes and [[useful lie|useful lies]]. Acknowledging the difficulty of translating all of chess, one is liberated to simplify the game. Some examples where blurring our eyes may make the problem easier might include pretending the chess board is infinite or that there are only pieces and no board at all. 
+There is benefit in blurred eyes and [[useful lie|useful lies]]. Acknowledging the difficulty of translating all of chess, one is liberated to simplify the game. Some examples where blurring our eyes may make the problem easier might include pretending the chess board is infinite or that there are only pieces and no board at all.

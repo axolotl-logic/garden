@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"8927823de994996b","type":"file","file":"dashboards/untagged.base","x":-740,"y":-540,"width":560,"height":380},
-		{"id":"234c37f29e95266c","type":"file","file":"dashboards/todo.base","x":-140,"y":-540,"width":520,"height":1420},
-		{"id":"c53db28a8b72a5bd","type":"file","file":"dashboards/magic.base","x":-920,"y":-80,"width":660,"height":460},
-		{"id":"83e9cbb2932662eb","x":-1320,"y":-600,"width":400,"height":400,"type":"file","file":"dashboards/tag-depth-smell.base"}
-	],
-	"edges":[]
-}

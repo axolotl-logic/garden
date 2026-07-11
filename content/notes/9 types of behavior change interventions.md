@@ -1,8 +1,14 @@
 ---
 created_at: 2026-06-02T09:27:52-04:00
 modified_at: 2026-06-02T09:27:52-04:00
-tags: ["psychology/behavior-change"]
+growth: budding
+tags:
+- psychology/behavior-change
+global_pagerank: 0.011529988875201068
+cluster_pagerank: 0.04174446750512158
+cluster_id: bf41d5db23befec8b07ca5b922455ad6
 ---
+
 From [[The Behavior Change Wheel (Michie, Susan, et al 2011)]] we have 9 interventions to facilitate the change of a behavior.
 
 | Intervention                | Example                                                             |

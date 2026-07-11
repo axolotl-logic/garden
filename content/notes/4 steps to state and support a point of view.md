@@ -1,8 +1,14 @@
 ---
 created_at: 2026-06-18T18:18:17-04:00
-modified_at: 2026-06-20T12:15:10-04:00
-tags: ["writing/hacks"]
+modified_at: 2026-06-20T21:17:48-04:00
+growth: budding
+tags:
+- writing/hacks
+global_pagerank: 0.007004348687474543
+cluster_pagerank: 0.025359067259006565
+cluster_id: bf41d5db23befec8b07ca5b922455ad6
 ---
+
 The PRES method is a formula for structuring rhetoric. It has been celebrated for its use in both impromptu oration and also the written word such as in writing of mini-essays.
 
 The formula is as follows:

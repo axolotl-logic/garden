@@ -1,7 +1,12 @@
 ---
 created_at: 2026-06-04T10:20:00-04:00
 modified_at: 2026-06-10T15:05:15-04:00
-tags: ["stardew-valley/modding"]
+growth: evergreen
+tags:
+- stardew-valley/modding
+global_pagerank: 0.004277457377825095
+cluster_pagerank: 1.0
+cluster_id: 93a3906297cbd28bfee46fad1bb1de21
 ---
 
 An event can be conceptualized as all of a *location*, set of *preconditions*, and a series of *commands* called the event script. This covers the what, where, and when of things happening in an event. Let's look at each of these in-turn so it's less confusing.

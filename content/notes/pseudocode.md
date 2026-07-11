@@ -1,8 +1,14 @@
 ---
 created_at: 2026-06-02T18:10:51-04:00
 modified_at: 2026-06-20T12:15:10-04:00
-tags: ["computer-science/software-engineering"]
+growth: budding
+tags:
+- computer-science/software-engineering
+global_pagerank: 0.004277457377825095
+cluster_pagerank: 0.015219153380954599
+cluster_id: 0775638e811bfa1da8216536fc6430a0
 ---
+
 The age old art of not caring about syntax for the purpose of demonstration or brainstorming. It is a [[useful lie]] that allow sfor thinking through coding or logic problems without getting bogged down by the details. Dropping the requirement that syntax and semantics be well defined lowers [[extraneous cognitive load]]. In other words, you only have to think about the meaning. Brainstorming with this method allows you to focus on the part that is relevant without holding the entirety of the hypothesized program in your working memory, in line with [[Cognitive offloading]].
 
 ```

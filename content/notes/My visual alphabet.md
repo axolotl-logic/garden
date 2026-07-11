@@ -1,8 +1,14 @@
 ---
 created_at: 2026-06-16T19:00:13-04:00
-modified_at: 2026-06-20T12:15:10-04:00
-tags: ["journal/memory"]
+modified_at: 2026-06-21T10:29:10-04:00
+growth: evergreen
+tags:
+- journal/memory
+global_pagerank: 0.004277457377825095
+cluster_pagerank: 0.015486379738095917
+cluster_id: bf41d5db23befec8b07ca5b922455ad6
 ---
+
 >[!info] Memory Journal Entry
 > This is an entry in my memory journal. It is primarily for my own purposes.
 
@@ -34,7 +40,6 @@ tags: ["journal/memory"]
 | Xena           | hair chewed by     |
 | Yak            | struck by          |
 | Zues           | bittin by          |
-An alligator who was struck by lightning waits at the door. The door blasts open and a cloud of bats pour out over. The cat on TV jumps out of the screen and tries to pounce on a bat. A dragon circles overhead inside the house, breathing fire down, catching elements of the room on fire. An elephant sprays water to put out the flames. A frog hops up and down on the back of the elephant irritated by the whole affair. A giraffe looms over, chewing its cud. A hippo, upset with its lackadaisical attitude, roars defending its territory. This perturbs the iguana whose sun is now blocked by the fat butt of the hippo. A jumping spider leaps over the iguana, judging the intelligence of the iguana as it goes. This upsets the kangaroo who starts boxing her. A lemur matriarch and her husbands spectate the fight. The monkeys, upset by the lemurs sitting in their seats, throws feces. A nun prayers for the monkey's sinful poop tossing.  An orangutan is offended by the nun for being included as a monkey and starts angrily eeking.  A pony rears on its hind legs, joining into the fray. When it lands it crushes the poor quahogs. The rabbits seem to be bizarrely excited about this and proceed to do what rabbits do. A snake slithers up and swallows a rabbit. A tiger, seeing its chance, pounces on the snake. A unicorn, offended by this violence, skewers  the tiger. Velma investigates the murder. While investigating, she steps on the wombat's square poop. Xena throws her weapon at the wombat who is a god. Meanwhile a yak grazes on her hair. Zeus, offended by this, strikes the yak with a lightning bolt.  
 
 ## Information Stored
 
@@ -75,7 +80,7 @@ An alligator who was struck by lightning waits at the door. The door blasts open
 | Service Provision             | Unicorn | prostitution      |
 | Regulation                    | Velma   | regulator (SCUBA) |
 
-[[4 steps to state and support a point]]
+[[4 steps to state and support a point of view]]
 
 | Knowledge               | Peg    | Mnemonic            |
 | ----------------------- | ------ | ------------------- |
@@ -83,3 +88,60 @@ An alligator who was struck by lightning waits at the door. The door blasts open
 | Give a single reason    | Xena   | single giant raisin |
 | Clarify with an example | Yak    | clarified butter    |
 | Summarize               | Zues   | throwing sigma      |
+
+## Flashcards
+
+AA :: Education (behavior change intervention)
+<!--SR:!2026-07-08,7,270-->
+AB :: Persuasion (behavior change intervention)
+<!--SR:!2026-07-08,12,270-->
+AC :: Incentivisation  (behavior change intervention)
+<!--SR:!2026-07-08,12,270-->
+AD :: Coercion (behavior change intervention)
+<!--SR:!2026-07-28,25,270-->
+AE :: Training (behavior change intervention)
+<!--SR:!2026-07-06,10,270-->
+AF :: Restriction (behavior change intervention)
+<!--SR:!2026-07-07,11,270-->
+AG :: Environmental restructuring (behavior change intervention)
+<!--SR:!2026-07-07,6,230-->
+AH :: Modeling (behavior change intervention)
+<!--SR:!2026-07-05,1,210-->
+AI :: Enablement (behavior change intervention)
+<!--SR:!2026-07-05,2,210-->
+AJ :: Physical capability (COM-B)
+<!--SR:!2026-07-06,5,250-->
+AK :: Psychological capability (COM-B)
+<!--SR:!2026-07-13,9,230-->
+AL :: Automatic Motivation (COM-B)
+<!--SR:!2026-07-06,5,230-->
+AM :: Reflexive Motivation (COM-B)
+<!--SR:!2026-07-05,4,210-->
+AN :: Social Opportunities (COM-B)
+<!--SR:!2026-07-06,10,270-->
+AO :: Physical Opportunities (COM-B)
+<!--SR:!2026-07-06,10,270-->
+AP :: Marketing/Communication (policies to change behavior)
+<!--SR:!2026-07-07,11,270-->
+AQ :: Guidelines (policies to change behavior)
+<!--SR:!2026-07-08,5,230-->
+AR :: Fiscal (policies to change behavior)
+<!--SR:!2026-07-14,11,270-->
+AS :: Legislative (policies to change behavior)
+<!--SR:!2026-07-06,5,230-->
+AT :: Environmental/Social Planning (policies to change behavior)
+<!--SR:!2026-07-07,11,270-->
+AU :: Service Provisioning (policies to change behavior)
+<!--SR:!2026-07-06,5,230-->
+AV :: Regulation (policies to change behavior)
+<!--SR:!2026-07-05,4,190-->
+AW :: State point of view (PRES formula)
+<!--SR:!2026-07-06,5,230-->
+AX :: Give a single reason (PRES formula)
+<!--SR:!2026-07-06,3,210-->
+AY :: Give an example (PRES formula)
+<!--SR:!2026-07-05,1,130-->
+AZ :: Summarize point of view (PRES formula)
+<!--SR:!2026-07-08,12,270-->
+
+#flashcards

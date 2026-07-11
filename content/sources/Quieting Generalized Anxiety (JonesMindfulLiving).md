@@ -1,5 +1,9 @@
 ---
-tags: ["source-note"]
+tags:
+- source-note
+global_pagerank: 0.004277457377825095
+cluster_pagerank: 1.0
+cluster_id: 0a88335eedd6eee2a1612ad55f554843
 ---
 
 >[!danger] Source is behind a paywall

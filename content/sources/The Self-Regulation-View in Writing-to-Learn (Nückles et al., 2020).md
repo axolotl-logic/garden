@@ -1,5 +1,9 @@
 ---
-tags: ["source-note"]
+tags:
+- source-note
+global_pagerank: 0.004277457377825095
+cluster_pagerank: 0.015219153380954599
+cluster_id: 0775638e811bfa1da8216536fc6430a0
 ---
 
 >[!info] These are notes on...

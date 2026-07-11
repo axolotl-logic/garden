@@ -1,8 +1,17 @@
 ---
 created_at: 2026-05-14T08:56:35-04:00
 modified_at: 2026-06-10T15:05:15-04:00
-tags: ["psychology/depression", "psychology/problem-solving", "psychology/creativity", "psychology/learning"]
+growth: budding
+tags:
+- psychology/depression
+- psychology/problem-solving
+- psychology/creativity
+- psychology/learning
+global_pagerank: 0.004277457377825095
+cluster_pagerank: 1.0
+cluster_id: 307f726e09f47c2b635e7cb7f2947b65
 ---
+
 By increasing problem solving skills, those with depression or who are at high suicidal risk may come up with alternatives to self-destructive options.
 
 However, depression inhibits the recall of a memory's details, potentially inhibiting a person's full problem solving potential.  

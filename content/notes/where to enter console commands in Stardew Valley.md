@@ -1,8 +1,14 @@
 ---
 created_at: 2026-06-07T08:58:00-04:00
 modified_at: 2026-06-10T15:05:15-04:00
-tags: ["stardew-valley/other"]
+growth: budding
+tags:
+- stardew-valley/other
+global_pagerank: 0.006095384917591394
+cluster_pagerank: 0.37012974744707666
+cluster_id: 3367ad33c896258783d56e4e087810c8
 ---
+
 To enter commands, type them into the console window that is launched when you launch Stardew. When you launch Stardew with SMAPI, SMAPI runs in a console window. You'll see it with the log output. Type commands directly in there, then hit enter.
 
 >[!tip] Run the `help` command to see all commands

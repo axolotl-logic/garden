@@ -1,8 +1,14 @@
 ---
 created_at: 2026-06-02T18:10:51-04:00
 modified_at: 2026-06-12T13:32:46-04:00
-tags: ["psychology/learning"]
+growth: evergreen
+tags:
+- psychology/learning
+global_pagerank: 0.008852643372326798
+cluster_pagerank: 0.031497307805764194
+cluster_id: 0775638e811bfa1da8216536fc6430a0
 ---
+
 Cognitive offloading is the intentional reduction of cognitive demand through physical action. If you setup calendar reminders or tilt your head to see a sideways image, you're engaging in cognitive offloading. These are intentional actions that reduce how much information you have to process.
 
 By manipulating our environment we are able to reduce the demand on our minds. A person does not need to recall from memory an appointment if they set a reminder. This frees up mental resources to handle other concerns.

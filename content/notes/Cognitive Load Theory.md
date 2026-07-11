@@ -1,8 +1,14 @@
 ---
 created_at: 2026-06-19T12:25:23-04:00
 modified_at: 2026-06-20T12:15:10-04:00
-tags: ["psychology/learning"]
+growth: budding
+tags:
+- psychology/learning
+global_pagerank: 0.021828327270990978
+cluster_pagerank: 0.0776988763672497
+cluster_id: 0775638e811bfa1da8216536fc6430a0
 ---
+
 Cognitive Load Theory is a theory about learning meant to guide instructional design. It is meant to be grounded in human cognitive architecture. This architecture consists of the activity of storing information, processing it, and retrieving it. The architecture it is built off has two different areas where information is stored, working memory and long term memory. There interplay and properties are central to the theory.
 
 

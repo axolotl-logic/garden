@@ -1,8 +1,14 @@
 ---
 created_at: 2026-06-07T08:58:00-04:00
 modified_at: 2026-06-10T15:05:15-04:00
-tags: ["stardew-valley/modding"]
+growth: budding
+tags:
+- stardew-valley/modding
+global_pagerank: 0.006095384917591394
+cluster_pagerank: 0.37012974744707666
+cluster_id: 3367ad33c896258783d56e4e087810c8
 ---
+
 To reset events, you can...
 
 * Use the [Event Lookup](https://www.nexusmods.com/stardewvalley/mods/8505) mod

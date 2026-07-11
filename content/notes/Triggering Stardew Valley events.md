@@ -1,8 +1,14 @@
 ---
 created_at: 2026-06-06T17:06:13-04:00
 modified_at: 2026-06-10T15:05:15-04:00
-tags: ["stardew-valley/modding"]
+growth: evergreen
+tags:
+- stardew-valley/modding
+global_pagerank: 0.004277457377825095
+cluster_pagerank: 1.0
+cluster_id: bf0de0094c1c75fc2f9392e749efa0c4
 ---
+
 When modding, it can be useful to trigger events intentionally. One option is to use the [Event Tester](https://www.nexusmods.com/stardewvalley/mods/19458) mod, another is to use the built-in `debug ebi` command
 
 >[!info] Execute commands in SMAPI window

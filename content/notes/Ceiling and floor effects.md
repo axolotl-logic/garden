@@ -1,8 +1,14 @@
 ---
 created_at: 2026-05-14T08:56:35-04:00
 modified_at: 2026-06-10T15:05:15-04:00
-tags: ["mathematics/statistics"]
+growth: budding
+tags:
+- mathematics/statistics
+global_pagerank: 0.004277457377825095
+cluster_pagerank: 1.0
+cluster_id: b4bb8643244cf7b3e4553810b37a5576
 ---
+
 The ceiling and floor effects are to studies what clipping is to audio engineering. 
 
 The phenomenon describes that an independent variable stops having an effect on a dependent variable when the value is too high or too low. There could be multiple causes of this including both how the experiment was designed, what was being studied, and how the data was collected.

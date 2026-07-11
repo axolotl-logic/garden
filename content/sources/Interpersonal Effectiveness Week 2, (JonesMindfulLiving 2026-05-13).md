@@ -1,5 +1,9 @@
 ---
-tags: ["source-note"]
+tags:
+- source-note
+global_pagerank: 0.004277457377825095
+cluster_pagerank: 1.0
+cluster_id: b731d22aceec3d9657feb69b9d4055d5
 ---
 
 >[!warning] Source behind paywall

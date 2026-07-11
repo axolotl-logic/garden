@@ -1,8 +1,14 @@
 ---
 created_at: 2026-05-20T13:13:26-04:00
 modified_at: 2026-06-10T15:05:15-04:00
-tags: ["mathematics/probability"]
+growth: evergreen
+tags:
+- mathematics/probability
+global_pagerank: 0.010235649524258681
+cluster_pagerank: 0.14204123377294198
+cluster_id: 6ff3fe052dd8e2d9f9da64c8ba8450dd
 ---
+
 Kolmogorov's axioms formalize probability theory with set theory. They serve as a foundation on which to build out the rest of probability theory.
 
 ## Definitions

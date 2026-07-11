@@ -1,8 +1,14 @@
 ---
 created_at: 2026-05-20T13:13:26-04:00
 modified_at: 2026-06-20T12:15:10-04:00
-tags: ["psychology/mind-wandering"]
+growth: evergreen
+tags:
+- psychology/mind-wandering
+global_pagerank: 0.004277457377825095
+cluster_pagerank: 1.0
+cluster_id: 0bbed5ccc5d7e879910f6eb7f1849ac9
 ---
+
 Mind-wandering is often viewed as an unintentional and unwanted process that catches a person off guard and leads them by the nose off-topic. However, research hopes to refine our understanding of it, modeling its purpose and parts. Often brainstorming is divided into intentional vs unintentional and then, by some, subdividing as aware vs unaware[^3]. All together, mind-wandering has ample nuance to explore beyond initial impressions.
 
 The perspective that mind-wandering is inherently negative shuts us off from other perspectives. In fact, on closer inspection, it has many appealing qualities. Mind-wandering may play a role in self-regulation[^5] , meaning it can serve as a signal that, for example, a task is too boring or difficult or that there are competing priorities worth considering. There have also been links between it and creativity. Most importantly, it is part of who many people are and to see that as a negative is limiting.

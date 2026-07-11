@@ -1,8 +1,16 @@
 ---
 created_at: 2026-05-20T13:13:26-04:00
 modified_at: 2026-06-16T19:00:13-04:00
-tags: ["computer-science/local-first", "computer-science/backend", "computer-science/theory"]
+growth: budding
+tags:
+- computer-science/local-first
+- computer-science/backend
+- computer-science/theory
+global_pagerank: 0.017656838339128598
+cluster_pagerank: 0.2795725072134137
+cluster_id: 715c1811896488ca124d8314973d347b
 ---
+
 A CRDT is a data structure with the following properties:
 
 1. Individual replicas can update without coordination, even if other updates are happening concurrently. 
@@ -26,4 +34,4 @@ And three functions:
 
 Replicas exchange entirety of state
 
-3 functions: initialization of state,  updating of states through actions, and merge. 
+3 functions: initialization of state,  updating of states through actions, and merge.
